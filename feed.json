@@ -1,37 +1,9 @@
 {
-  "generated_at": "2026-05-22T22:17:58.630771",
+  "generated_at": "2026-05-23T00:16:55.797865",
   "lookahead_days": 14,
   "total_brokers": 387,
   "brokers_with_availability": 379,
   "brokers": [
-    {
-      "id": 570,
-      "external_id": 703,
-      "name": "Roksana Risberg",
-      "email": "rri@eie.no",
-      "phone": "+4748250514",
-      "slug": "roksana.risberg",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/a5af161e49ddcd6b11d1cb41f6186a73d15d2e83.jpg",
-      "office_name": "EIE Råholt",
-      "office_department_id": 48786,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-raholt",
-      "latitude": 60.2858747,
-      "longitude": 11.1707372,
-      "geo": "60.2858747,11.1707372",
-      "radius_km": 10,
-      "city": "Råholt",
-      "region": "Innlandet",
-      "title": "Neste ledige tid – EIE Råholt – 22. mai kl. 22:30",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Råholt er fredag 22. mai kl. 22:30 med Roksana Risberg. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=570&brokerName=Roksana%20Risberg&brokerEmail=rri%40eie.no&postalCode=0000&products=147&date=2026-05-22&time=22:30&duration=60",
-      "next_slot": {
-        "date": "2026-05-22",
-        "time": "22:30",
-        "datetime_iso": "2026-05-22T22:30:00",
-        "slot_end": "2026-05-22 23:00"
-      },
-      "has_availability": true
-    },
     {
       "id": 588,
       "external_id": 517,
@@ -49,42 +21,14 @@
       "radius_km": 10,
       "city": "Oslo",
       "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Majorstuen & St. Hanshaugen – 22. mai kl. 22:50",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Majorstuen & St. Hanshaugen er fredag 22. mai kl. 22:50 med Anders Andersen. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=588&brokerName=Anders%20Andersen&brokerEmail=aa%40eie.no&postalCode=0000&products=147&date=2026-05-22&time=22:50&duration=60",
+      "title": "Neste ledige tid – EIE Majorstuen & St. Hanshaugen – 23. mai kl. 01:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Majorstuen & St. Hanshaugen er lørdag 23. mai kl. 01:00 med Anders Andersen. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=588&brokerName=Anders%20Andersen&brokerEmail=aa%40eie.no&postalCode=0000&products=147&date=2026-05-23&time=01:00&duration=60",
       "next_slot": {
-        "date": "2026-05-22",
-        "time": "22:50",
-        "datetime_iso": "2026-05-22T22:50:00",
-        "slot_end": "2026-05-22 23:50"
-      },
-      "has_availability": true
-    },
-    {
-      "id": 629,
-      "external_id": 2598,
-      "name": "Per Olav Hess",
-      "email": "poh@eie.no",
-      "phone": "+4792282449",
-      "slug": "per.olav.hess",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/e204cdd8b307bcc9a7a5754a9640d05ebd6fadc6.jpg",
-      "office_name": "EIE Asker",
-      "office_department_id": 290,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-asker",
-      "latitude": 59.8362622,
-      "longitude": 10.4323414,
-      "geo": "59.8362622,10.4323414",
-      "radius_km": 10,
-      "city": "Asker",
-      "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Asker – 22. mai kl. 23:00",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Asker er fredag 22. mai kl. 23:00 med Per Olav Hess. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=629&brokerName=Per%20Olav%20Hess&brokerEmail=poh%40eie.no&postalCode=0000&products=147&date=2026-05-22&time=23:00&duration=60",
-      "next_slot": {
-        "date": "2026-05-22",
-        "time": "23:00",
-        "datetime_iso": "2026-05-22T23:00:00",
-        "slot_end": "2026-05-23 03:00"
+        "date": "2026-05-23",
+        "time": "01:00",
+        "datetime_iso": "2026-05-23T01:00:00",
+        "slot_end": "2026-05-23 02:00"
       },
       "has_availability": true
     },
@@ -281,6 +225,34 @@
         "time": "02:00",
         "datetime_iso": "2026-05-23T02:00:00",
         "slot_end": "2026-05-26 02:00"
+      },
+      "has_availability": true
+    },
+    {
+      "id": 570,
+      "external_id": 703,
+      "name": "Roksana Risberg",
+      "email": "rri@eie.no",
+      "phone": "+4748250514",
+      "slug": "roksana.risberg",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/a5af161e49ddcd6b11d1cb41f6186a73d15d2e83.jpg",
+      "office_name": "EIE Råholt",
+      "office_department_id": 48786,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-raholt",
+      "latitude": 60.2858747,
+      "longitude": 11.1707372,
+      "geo": "60.2858747,11.1707372",
+      "radius_km": 10,
+      "city": "Råholt",
+      "region": "Innlandet",
+      "title": "Neste ledige tid – EIE Råholt – 23. mai kl. 06:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Råholt er lørdag 23. mai kl. 06:00 med Roksana Risberg. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=570&brokerName=Roksana%20Risberg&brokerEmail=rri%40eie.no&postalCode=0000&products=147&date=2026-05-23&time=06:00&duration=60",
+      "next_slot": {
+        "date": "2026-05-23",
+        "time": "06:00",
+        "datetime_iso": "2026-05-23T06:00:00",
+        "slot_end": "2026-05-23 06:30"
       },
       "has_availability": true
     },
@@ -617,6 +589,34 @@
         "time": "09:00",
         "datetime_iso": "2026-05-23T09:00:00",
         "slot_end": "2026-05-23 09:30"
+      },
+      "has_availability": true
+    },
+    {
+      "id": 629,
+      "external_id": 2598,
+      "name": "Per Olav Hess",
+      "email": "poh@eie.no",
+      "phone": "+4792282449",
+      "slug": "per.olav.hess",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/e204cdd8b307bcc9a7a5754a9640d05ebd6fadc6.jpg",
+      "office_name": "EIE Asker",
+      "office_department_id": 290,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-asker",
+      "latitude": 59.8362622,
+      "longitude": 10.4323414,
+      "geo": "59.8362622,10.4323414",
+      "radius_km": 10,
+      "city": "Asker",
+      "region": "Østlandet",
+      "title": "Neste ledige tid – EIE Asker – 23. mai kl. 09:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Asker er lørdag 23. mai kl. 09:00 med Per Olav Hess. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=629&brokerName=Per%20Olav%20Hess&brokerEmail=poh%40eie.no&postalCode=0000&products=147&date=2026-05-23&time=09:00&duration=60",
+      "next_slot": {
+        "date": "2026-05-23",
+        "time": "09:00",
+        "datetime_iso": "2026-05-23T09:00:00",
+        "slot_end": "2026-05-23 14:00"
       },
       "has_availability": true
     },
