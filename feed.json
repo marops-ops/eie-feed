@@ -1,37 +1,9 @@
 {
-  "generated_at": "2026-06-27T22:13:26.530155",
+  "generated_at": "2026-06-28T00:11:47.194061",
   "lookahead_days": 14,
   "total_brokers": 400,
   "brokers_with_availability": 385,
   "brokers": [
-    {
-      "id": 588,
-      "external_id": 517,
-      "name": "Anders Andersen",
-      "email": "aa@eie.no",
-      "phone": "+4798837452",
-      "slug": "anders.andersen",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/dcac6df70febdb95d922556dad0851334771aec5.jpg",
-      "office_name": "EIE Majorstuen & St. Hanshaugen",
-      "office_department_id": 1868,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-majorstuen-st-hanshaugen",
-      "latitude": 59.920996,
-      "longitude": 10.72762,
-      "geo": "59.920996,10.72762",
-      "radius_km": 10,
-      "city": "Oslo",
-      "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Majorstuen & St. Hanshaugen – 27. jun kl. 22:50",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Majorstuen & St. Hanshaugen er lørdag 27. juni kl. 22:50 med Anders Andersen. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=588&brokerName=Anders%20Andersen&brokerEmail=aa%40eie.no&postalCode=0000&products=147&date=2026-06-27&time=22:50&duration=60",
-      "next_slot": {
-        "date": "2026-06-27",
-        "time": "22:50",
-        "datetime_iso": "2026-06-27T22:50:00",
-        "slot_end": "2026-06-27 23:50"
-      },
-      "has_availability": true
-    },
     {
       "id": 73,
       "external_id": 397,
@@ -780,6 +752,34 @@
       "title": "Neste ledige tid – EIE Valkyrien – 28. jun kl. 11:00",
       "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Valkyrien er søndag 28. juni kl. 11:00 med Ada Kjenner. Velkommen til en hyggelig prat.",
       "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=633&brokerName=Ada%20Kjenner&brokerEmail=akj%40eie.no&postalCode=0000&products=147&date=2026-06-28&time=11:00&duration=60",
+      "next_slot": {
+        "date": "2026-06-28",
+        "time": "11:00",
+        "datetime_iso": "2026-06-28T11:00:00",
+        "slot_end": "2026-06-28 11:45"
+      },
+      "has_availability": true
+    },
+    {
+      "id": 588,
+      "external_id": 517,
+      "name": "Anders Andersen",
+      "email": "aa@eie.no",
+      "phone": "+4798837452",
+      "slug": "anders.andersen",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/dcac6df70febdb95d922556dad0851334771aec5.jpg",
+      "office_name": "EIE Majorstuen & St. Hanshaugen",
+      "office_department_id": 1868,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-majorstuen-st-hanshaugen",
+      "latitude": 59.920996,
+      "longitude": 10.72762,
+      "geo": "59.920996,10.72762",
+      "radius_km": 10,
+      "city": "Oslo",
+      "region": "Østlandet",
+      "title": "Neste ledige tid – EIE Majorstuen & St. Hanshaugen – 28. jun kl. 11:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Majorstuen & St. Hanshaugen er søndag 28. juni kl. 11:00 med Anders Andersen. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=588&brokerName=Anders%20Andersen&brokerEmail=aa%40eie.no&postalCode=0000&products=147&date=2026-06-28&time=11:00&duration=60",
       "next_slot": {
         "date": "2026-06-28",
         "time": "11:00",
@@ -1540,7 +1540,7 @@
         "date": "2026-06-28",
         "time": "12:00",
         "datetime_iso": "2026-06-28T12:00:00",
-        "slot_end": "2026-06-28 12:45"
+        "slot_end": "2026-06-28 12:30"
       },
       "has_availability": true
     },
