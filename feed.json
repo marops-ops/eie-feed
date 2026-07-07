@@ -1,37 +1,9 @@
 {
-  "generated_at": "2026-07-06T22:23:59.595598",
+  "generated_at": "2026-07-07T00:18:39.416138",
   "lookahead_days": 14,
   "total_brokers": 397,
   "brokers_with_availability": 369,
   "brokers": [
-    {
-      "id": 588,
-      "external_id": 517,
-      "name": "Anders Andersen",
-      "email": "aa@eie.no",
-      "phone": "+4798837452",
-      "slug": "anders.andersen",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/dcac6df70febdb95d922556dad0851334771aec5.jpg",
-      "office_name": "EIE Majorstuen & St. Hanshaugen",
-      "office_department_id": 1868,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-majorstuen-st-hanshaugen",
-      "latitude": 59.920996,
-      "longitude": 10.72762,
-      "geo": "59.920996,10.72762",
-      "radius_km": 10,
-      "city": "Oslo",
-      "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Majorstuen & St. Hanshaugen – 6. jul kl. 22:50",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Majorstuen & St. Hanshaugen er mandag 6. juli kl. 22:50 med Anders Andersen. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=588&brokerName=Anders%20Andersen&brokerEmail=aa%40eie.no&postalCode=0000&products=147&date=2026-07-06&time=22:50&duration=60",
-      "next_slot": {
-        "date": "2026-07-06",
-        "time": "22:50",
-        "datetime_iso": "2026-07-06T22:50:00",
-        "slot_end": "2026-07-06 23:50"
-      },
-      "has_availability": true
-    },
     {
       "id": 474,
       "external_id": 673,
@@ -2833,6 +2805,34 @@
       "has_availability": true
     },
     {
+      "id": 588,
+      "external_id": 517,
+      "name": "Anders Andersen",
+      "email": "aa@eie.no",
+      "phone": "+4798837452",
+      "slug": "anders.andersen",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/dcac6df70febdb95d922556dad0851334771aec5.jpg",
+      "office_name": "EIE Majorstuen & St. Hanshaugen",
+      "office_department_id": 1868,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-majorstuen-st-hanshaugen",
+      "latitude": 59.920996,
+      "longitude": 10.72762,
+      "geo": "59.920996,10.72762",
+      "radius_km": 10,
+      "city": "Oslo",
+      "region": "Østlandet",
+      "title": "Neste ledige tid – EIE Majorstuen & St. Hanshaugen – 7. jul kl. 09:30",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Majorstuen & St. Hanshaugen er tirsdag 7. juli kl. 09:30 med Anders Andersen. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=588&brokerName=Anders%20Andersen&brokerEmail=aa%40eie.no&postalCode=0000&products=147&date=2026-07-07&time=09:30&duration=60",
+      "next_slot": {
+        "date": "2026-07-07",
+        "time": "09:30",
+        "datetime_iso": "2026-07-07T09:30:00",
+        "slot_end": "2026-07-07 10:30"
+      },
+      "has_availability": true
+    },
+    {
       "id": 4516,
       "external_id": 11241,
       "name": "Cathrine Sesseng",
@@ -4756,6 +4756,34 @@
       "title": "Neste ledige tid – EIE Majorstuen & St. Hanshaugen – 7. jul kl. 11:00",
       "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Majorstuen & St. Hanshaugen er tirsdag 7. juli kl. 11:00 med Marthe Valerie. Velkommen til en hyggelig prat.",
       "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4606&brokerName=Marthe%20Valerie&brokerEmail=mo%40eie.no&postalCode=0000&products=147&date=2026-07-07&time=11:00&duration=60",
+      "next_slot": {
+        "date": "2026-07-07",
+        "time": "11:00",
+        "datetime_iso": "2026-07-07T11:00:00",
+        "slot_end": "2026-07-07 12:00"
+      },
+      "has_availability": true
+    },
+    {
+      "id": 652,
+      "external_id": 3020,
+      "name": "Martine Mjåland",
+      "email": "mmj@eie.no",
+      "phone": "+4795854614",
+      "slug": "martine.mjaland",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/0bdeaa69956a9a29b6f0181a3eccfeb4f1c4b713.jpg",
+      "office_name": "EIE Majorstuen & St. Hanshaugen",
+      "office_department_id": 1868,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-majorstuen-st-hanshaugen",
+      "latitude": 59.920996,
+      "longitude": 10.72762,
+      "geo": "59.920996,10.72762",
+      "radius_km": 10,
+      "city": "Oslo",
+      "region": "Østlandet",
+      "title": "Neste ledige tid – EIE Majorstuen & St. Hanshaugen – 7. jul kl. 11:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Majorstuen & St. Hanshaugen er tirsdag 7. juli kl. 11:00 med Martine Mjåland. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=652&brokerName=Martine%20Mj%C3%A5land&brokerEmail=mmj%40eie.no&postalCode=0000&products=147&date=2026-07-07&time=11:00&duration=60",
       "next_slot": {
         "date": "2026-07-07",
         "time": "11:00",
@@ -7532,7 +7560,7 @@
         "date": "2026-07-08",
         "time": "10:00",
         "datetime_iso": "2026-07-08T10:00:00",
-        "slot_end": "2026-07-08 11:00"
+        "slot_end": "2026-07-08 12:00"
       },
       "has_availability": true
     },
@@ -7617,34 +7645,6 @@
         "time": "10:00",
         "datetime_iso": "2026-07-08T10:00:00",
         "slot_end": "2026-07-08 11:00"
-      },
-      "has_availability": true
-    },
-    {
-      "id": 652,
-      "external_id": 3020,
-      "name": "Martine Mjåland",
-      "email": "mmj@eie.no",
-      "phone": "+4795854614",
-      "slug": "martine.mjaland",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/0bdeaa69956a9a29b6f0181a3eccfeb4f1c4b713.jpg",
-      "office_name": "EIE Majorstuen & St. Hanshaugen",
-      "office_department_id": 1868,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-majorstuen-st-hanshaugen",
-      "latitude": 59.920996,
-      "longitude": 10.72762,
-      "geo": "59.920996,10.72762",
-      "radius_km": 10,
-      "city": "Oslo",
-      "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Majorstuen & St. Hanshaugen – 8. jul kl. 10:15",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Majorstuen & St. Hanshaugen er onsdag 8. juli kl. 10:15 med Martine Mjåland. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=652&brokerName=Martine%20Mj%C3%A5land&brokerEmail=mmj%40eie.no&postalCode=0000&products=147&date=2026-07-08&time=10:15&duration=60",
-      "next_slot": {
-        "date": "2026-07-08",
-        "time": "10:15",
-        "datetime_iso": "2026-07-08T10:15:00",
-        "slot_end": "2026-07-08 11:15"
       },
       "has_availability": true
     },
@@ -10263,9 +10263,9 @@
       "office_name": "EIE Ringsaker",
       "office_department_id": 262,
       "office_url": "https://eie.no/eiendom/kontorer/eie-ringsaker",
-      "latitude": 60.8854189,
-      "longitude": 10.9394663,
-      "geo": "60.8854189,10.9394663",
+      "latitude": 60.8855251,
+      "longitude": 10.9395008,
+      "geo": "60.8855251,10.9395008",
       "radius_km": 10,
       "city": "Brumunddal",
       "region": "Innlandet",
