@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T05:34:23.066540",
+  "generated_at": "2026-07-18T07:56:34.313397",
   "lookahead_days": 14,
   "total_brokers": 397,
   "brokers_with_availability": 367,
@@ -7392,7 +7392,7 @@
         "date": "2026-07-20",
         "time": "17:00",
         "datetime_iso": "2026-07-20T17:00:00",
-        "slot_end": "2026-07-20 18:00"
+        "slot_end": "2026-07-20 18:30"
       },
       "has_availability": true
     },
