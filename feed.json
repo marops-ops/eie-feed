@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T21:13:18.332034",
+  "generated_at": "2026-07-23T23:04:32.807702",
   "lookahead_days": 14,
   "total_brokers": 398,
   "brokers_with_availability": 384,
@@ -21,14 +21,14 @@
       "radius_km": 10,
       "city": "Oslo",
       "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Majorstuen & St. Hanshaugen – 23. jul kl. 22:50",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Majorstuen & St. Hanshaugen er torsdag 23. juli kl. 22:50 med Anders Andersen. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=588&brokerName=Anders%20Andersen&brokerEmail=aa%40eie.no&postalCode=0000&products=147&date=2026-07-23&time=22:50&duration=60",
+      "title": "Neste ledige tid – EIE Majorstuen & St. Hanshaugen – 23. jul kl. 23:35",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Majorstuen & St. Hanshaugen er torsdag 23. juli kl. 23:35 med Anders Andersen. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=588&brokerName=Anders%20Andersen&brokerEmail=aa%40eie.no&postalCode=0000&products=147&date=2026-07-23&time=23:35&duration=60",
       "next_slot": {
         "date": "2026-07-23",
-        "time": "22:50",
-        "datetime_iso": "2026-07-23T22:50:00",
-        "slot_end": "2026-07-23 23:50"
+        "time": "23:35",
+        "datetime_iso": "2026-07-23T23:35:00",
+        "slot_end": "2026-07-24 00:35"
       },
       "has_availability": true
     },
@@ -701,6 +701,34 @@
         "time": "07:00",
         "datetime_iso": "2026-07-24T07:00:00",
         "slot_end": "2026-07-24 08:00"
+      },
+      "has_availability": true
+    },
+    {
+      "id": 4135,
+      "external_id": 430970,
+      "name": "Sondre Gjetøy",
+      "email": "shg@eie.no",
+      "phone": "+4746808089",
+      "slug": "sondre.gjetoy",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/ba7e53d89133ac8bc4c689e925cf2d9b5eda3249.jpg",
+      "office_name": "EIE Molde",
+      "office_department_id": 430922,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-molde",
+      "latitude": 62.737124,
+      "longitude": 7.157399,
+      "geo": "62.737124,7.157399",
+      "radius_km": 10,
+      "city": "Molde",
+      "region": "Vestlandet",
+      "title": "Neste ledige tid – EIE Molde – 24. jul kl. 07:30",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Molde er fredag 24. juli kl. 07:30 med Sondre Gjetøy. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4135&brokerName=Sondre%20Gjet%C3%B8y&brokerEmail=shg%40eie.no&postalCode=0000&products=147&date=2026-07-24&time=07:30&duration=60",
+      "next_slot": {
+        "date": "2026-07-24",
+        "time": "07:30",
+        "datetime_iso": "2026-07-24T07:30:00",
+        "slot_end": "2026-07-24 08:15"
       },
       "has_availability": true
     },
@@ -1457,34 +1485,6 @@
         "time": "08:30",
         "datetime_iso": "2026-07-24T08:30:00",
         "slot_end": "2026-07-24 09:00"
-      },
-      "has_availability": true
-    },
-    {
-      "id": 4135,
-      "external_id": 430970,
-      "name": "Sondre Gjetøy",
-      "email": "shg@eie.no",
-      "phone": "+4746808089",
-      "slug": "sondre.gjetoy",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/ba7e53d89133ac8bc4c689e925cf2d9b5eda3249.jpg",
-      "office_name": "EIE Molde",
-      "office_department_id": 430922,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-molde",
-      "latitude": 62.737124,
-      "longitude": 7.157399,
-      "geo": "62.737124,7.157399",
-      "radius_km": 10,
-      "city": "Molde",
-      "region": "Vestlandet",
-      "title": "Neste ledige tid – EIE Molde – 24. jul kl. 08:30",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Molde er fredag 24. juli kl. 08:30 med Sondre Gjetøy. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4135&brokerName=Sondre%20Gjet%C3%B8y&brokerEmail=shg%40eie.no&postalCode=0000&products=147&date=2026-07-24&time=08:30&duration=60",
-      "next_slot": {
-        "date": "2026-07-24",
-        "time": "08:30",
-        "datetime_iso": "2026-07-24T08:30:00",
-        "slot_end": "2026-07-24 09:15"
       },
       "has_availability": true
     },
@@ -3039,9 +3039,9 @@
       "office_name": "EIE Ringsaker",
       "office_department_id": 262,
       "office_url": "https://eie.no/eiendom/kontorer/eie-ringsaker",
-      "latitude": 60.8854189,
-      "longitude": 10.9394663,
-      "geo": "60.8854189,10.9394663",
+      "latitude": 60.8855053,
+      "longitude": 10.9395605,
+      "geo": "60.8855053,10.9395605",
       "radius_km": 10,
       "city": "Brumunddal",
       "region": "Innlandet",
