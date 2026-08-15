@@ -1,37 +1,9 @@
 {
-  "generated_at": "2026-08-14T23:28:47.681334",
+  "generated_at": "2026-08-15T01:16:54.572640",
   "lookahead_days": 14,
   "total_brokers": 343,
   "brokers_with_availability": 338,
   "brokers": [
-    {
-      "id": 73,
-      "external_id": 397,
-      "name": "Børge Martinussen",
-      "email": "bm@eie.no",
-      "phone": "+4790821426",
-      "slug": "borge.martinussen",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/016b86f7394b8668672101c76a973fe4a8d5aebf.jpg",
-      "office_name": "EIE Tromsø",
-      "office_department_id": 56288,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-tromso",
-      "latitude": 69.6473089,
-      "longitude": 18.9514845,
-      "geo": "69.6473089,18.9514845",
-      "radius_km": 66.9,
-      "city": "Tromsø",
-      "region": "Nord-Norge",
-      "title": "Neste ledige tid – EIE Tromsø – 15. aug kl. 01:00",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Tromsø er lørdag 15. august kl. 01:00 med Børge Martinussen. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=73&brokerName=B%C3%B8rge%20Martinussen&brokerEmail=bm%40eie.no&postalCode=0000&products=147&date=2026-08-15&time=01:00&duration=60",
-      "next_slot": {
-        "date": "2026-08-15",
-        "time": "01:00",
-        "datetime_iso": "2026-08-15T01:00:00",
-        "slot_end": "2026-08-16 01:00"
-      },
-      "has_availability": true
-    },
     {
       "id": 4540,
       "external_id": 47993,
@@ -3529,6 +3501,34 @@
         "time": "23:00",
         "datetime_iso": "2026-08-15T23:00:00",
         "slot_end": "2026-08-16 05:00"
+      },
+      "has_availability": true
+    },
+    {
+      "id": 73,
+      "external_id": 397,
+      "name": "Børge Martinussen",
+      "email": "bm@eie.no",
+      "phone": "+4790821426",
+      "slug": "borge.martinussen",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/016b86f7394b8668672101c76a973fe4a8d5aebf.jpg",
+      "office_name": "EIE Tromsø",
+      "office_department_id": 56288,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-tromso",
+      "latitude": 69.6473089,
+      "longitude": 18.9514845,
+      "geo": "69.6473089,18.9514845",
+      "radius_km": 66.9,
+      "city": "Tromsø",
+      "region": "Nord-Norge",
+      "title": "Neste ledige tid – EIE Tromsø – 16. aug kl. 01:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Tromsø er søndag 16. august kl. 01:00 med Børge Martinussen. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=73&brokerName=B%C3%B8rge%20Martinussen&brokerEmail=bm%40eie.no&postalCode=0000&products=147&date=2026-08-16&time=01:00&duration=60",
+      "next_slot": {
+        "date": "2026-08-16",
+        "time": "01:00",
+        "datetime_iso": "2026-08-16T01:00:00",
+        "slot_end": "2026-08-17 01:00"
       },
       "has_availability": true
     },
