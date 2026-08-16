@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T21:26:49.913797",
+  "generated_at": "2026-08-16T22:28:06.639050",
   "lookahead_days": 14,
   "total_brokers": 343,
   "brokers_with_availability": 338,
@@ -21,14 +21,14 @@
       "radius_km": 10,
       "city": "Oslo",
       "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Majorstuen & St. Hanshaugen – 16. aug kl. 21:25",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Majorstuen & St. Hanshaugen er søndag 16. august kl. 21:25 med Anders Andersen. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=588&brokerName=Anders%20Andersen&brokerEmail=aa%40eie.no&postalCode=0000&products=147&date=2026-08-16&time=21:25&duration=60",
+      "title": "Neste ledige tid – EIE Majorstuen & St. Hanshaugen – 16. aug kl. 22:50",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Majorstuen & St. Hanshaugen er søndag 16. august kl. 22:50 med Anders Andersen. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=588&brokerName=Anders%20Andersen&brokerEmail=aa%40eie.no&postalCode=0000&products=147&date=2026-08-16&time=22:50&duration=60",
       "next_slot": {
         "date": "2026-08-16",
-        "time": "21:25",
-        "datetime_iso": "2026-08-16T21:25:00",
-        "slot_end": "2026-08-16 22:25"
+        "time": "22:50",
+        "datetime_iso": "2026-08-16T22:50:00",
+        "slot_end": "2026-08-16 23:50"
       },
       "has_availability": true
     },
@@ -985,34 +985,6 @@
       "has_availability": true
     },
     {
-      "id": 4701,
-      "external_id": 3446,
-      "name": "Matilde Felden",
-      "email": "mfe@eie.no",
-      "phone": "+4741465047",
-      "slug": "matilde.felden",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/broker_3446_1768135014656.jpg",
-      "office_name": "EIE Bergen",
-      "office_department_id": 462028,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-bergen",
-      "latitude": 60.373616,
-      "longitude": 5.341296,
-      "geo": "60.373616,5.341296",
-      "radius_km": 10,
-      "city": "Bergen",
-      "region": "Vestlandet",
-      "title": "Neste ledige tid – EIE Bergen – 17. aug kl. 08:00",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Bergen er mandag 17. august kl. 08:00 med Matilde Felden. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4701&brokerName=Matilde%20Felden&brokerEmail=mfe%40eie.no&postalCode=0000&products=147&date=2026-08-17&time=08:00&duration=60",
-      "next_slot": {
-        "date": "2026-08-17",
-        "time": "08:00",
-        "datetime_iso": "2026-08-17T08:00:00",
-        "slot_end": "2026-08-17 09:00"
-      },
-      "has_availability": true
-    },
-    {
       "id": 573,
       "external_id": 692,
       "name": "Reidar Lindsetmo",
@@ -1120,7 +1092,7 @@
         "date": "2026-08-17",
         "time": "08:00",
         "datetime_iso": "2026-08-17T08:00:00",
-        "slot_end": "2026-08-17 09:00"
+        "slot_end": "2026-08-17 08:30"
       },
       "has_availability": true
     },
@@ -4345,6 +4317,34 @@
       "has_availability": true
     },
     {
+      "id": 4701,
+      "external_id": 3446,
+      "name": "Matilde Felden",
+      "email": "mfe@eie.no",
+      "phone": "+4741465047",
+      "slug": "matilde.felden",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/broker_3446_1768135014656.jpg",
+      "office_name": "EIE Bergen",
+      "office_department_id": 462028,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-bergen",
+      "latitude": 60.373616,
+      "longitude": 5.341296,
+      "geo": "60.373616,5.341296",
+      "radius_km": 10,
+      "city": "Bergen",
+      "region": "Vestlandet",
+      "title": "Neste ledige tid – EIE Bergen – 17. aug kl. 09:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Bergen er mandag 17. august kl. 09:00 med Matilde Felden. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4701&brokerName=Matilde%20Felden&brokerEmail=mfe%40eie.no&postalCode=0000&products=147&date=2026-08-17&time=09:00&duration=60",
+      "next_slot": {
+        "date": "2026-08-17",
+        "time": "09:00",
+        "datetime_iso": "2026-08-17T09:00:00",
+        "slot_end": "2026-08-17 09:30"
+      },
+      "has_availability": true
+    },
+    {
       "id": 4492,
       "external_id": 2094,
       "name": "May-Linn Berge",
@@ -4649,6 +4649,34 @@
         "time": "09:00",
         "datetime_iso": "2026-08-17T09:00:00",
         "slot_end": "2026-08-17 09:30"
+      },
+      "has_availability": true
+    },
+    {
+      "id": 4135,
+      "external_id": 430970,
+      "name": "Sondre Gjetøy",
+      "email": "shg@eie.no",
+      "phone": "+4746808089",
+      "slug": "sondre.gjetoy",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/ba7e53d89133ac8bc4c689e925cf2d9b5eda3249.jpg",
+      "office_name": "EIE Molde",
+      "office_department_id": 430922,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-molde",
+      "latitude": 62.737124,
+      "longitude": 7.157399,
+      "geo": "62.737124,7.157399",
+      "radius_km": 10,
+      "city": "Molde",
+      "region": "Vestlandet",
+      "title": "Neste ledige tid – EIE Molde – 17. aug kl. 09:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Molde er mandag 17. august kl. 09:00 med Sondre Gjetøy. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4135&brokerName=Sondre%20Gjet%C3%B8y&brokerEmail=shg%40eie.no&postalCode=0000&products=147&date=2026-08-17&time=09:00&duration=60",
+      "next_slot": {
+        "date": "2026-08-17",
+        "time": "09:00",
+        "datetime_iso": "2026-08-17T09:00:00",
+        "slot_end": "2026-08-17 10:00"
       },
       "has_availability": true
     },
@@ -5433,34 +5461,6 @@
         "time": "09:30",
         "datetime_iso": "2026-08-17T09:30:00",
         "slot_end": "2026-08-17 11:00"
-      },
-      "has_availability": true
-    },
-    {
-      "id": 4135,
-      "external_id": 430970,
-      "name": "Sondre Gjetøy",
-      "email": "shg@eie.no",
-      "phone": "+4746808089",
-      "slug": "sondre.gjetoy",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/ba7e53d89133ac8bc4c689e925cf2d9b5eda3249.jpg",
-      "office_name": "EIE Molde",
-      "office_department_id": 430922,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-molde",
-      "latitude": 62.737124,
-      "longitude": 7.157399,
-      "geo": "62.737124,7.157399",
-      "radius_km": 10,
-      "city": "Molde",
-      "region": "Vestlandet",
-      "title": "Neste ledige tid – EIE Molde – 17. aug kl. 09:30",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Molde er mandag 17. august kl. 09:30 med Sondre Gjetøy. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4135&brokerName=Sondre%20Gjet%C3%B8y&brokerEmail=shg%40eie.no&postalCode=0000&products=147&date=2026-08-17&time=09:30&duration=60",
-      "next_slot": {
-        "date": "2026-08-17",
-        "time": "09:30",
-        "datetime_iso": "2026-08-17T09:30:00",
-        "slot_end": "2026-08-17 10:00"
       },
       "has_availability": true
     },
@@ -8891,9 +8891,9 @@
       "office_name": "EIE Ringsaker",
       "office_department_id": 262,
       "office_url": "https://eie.no/eiendom/kontorer/eie-ringsaker",
-      "latitude": 60.8855251,
-      "longitude": 10.9395008,
-      "geo": "60.8855251,10.9395008",
+      "latitude": 60.8855053,
+      "longitude": 10.9395605,
+      "geo": "60.8855053,10.9395605",
       "radius_km": 10,
       "city": "Brumunddal",
       "region": "Innlandet",
