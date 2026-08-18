@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T23:29:32.113595",
+  "generated_at": "2026-08-18T01:13:57.568780",
   "lookahead_days": 14,
   "total_brokers": 343,
   "brokers_with_availability": 338,
@@ -21,14 +21,14 @@
       "radius_km": 10,
       "city": "Sandvika",
       "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Sandvika – 18. aug kl. 01:00",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Sandvika er tirsdag 18. august kl. 01:00 med Kjetil Borgersrud. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=320&brokerName=Kjetil%20Borgersrud&brokerEmail=kbo%40eie.no&postalCode=0000&products=147&date=2026-08-18&time=01:00&duration=60",
+      "title": "Neste ledige tid – EIE Sandvika – 18. aug kl. 02:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Sandvika er tirsdag 18. august kl. 02:00 med Kjetil Borgersrud. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=320&brokerName=Kjetil%20Borgersrud&brokerEmail=kbo%40eie.no&postalCode=0000&products=147&date=2026-08-18&time=02:00&duration=60",
       "next_slot": {
         "date": "2026-08-18",
-        "time": "01:00",
-        "datetime_iso": "2026-08-18T01:00:00",
-        "slot_end": "2026-08-18 02:00"
+        "time": "02:00",
+        "datetime_iso": "2026-08-18T02:00:00",
+        "slot_end": "2026-08-18 03:00"
       },
       "has_availability": true
     },
@@ -5572,7 +5572,7 @@
         "date": "2026-08-18",
         "time": "10:30",
         "datetime_iso": "2026-08-18T10:30:00",
-        "slot_end": "2026-08-18 12:00"
+        "slot_end": "2026-08-18 11:00"
       },
       "has_availability": true
     },
