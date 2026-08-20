@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T03:54:40.994975",
+  "generated_at": "2026-08-20T04:44:00.627416",
   "lookahead_days": 14,
   "total_brokers": 344,
   "brokers_with_availability": 339,
@@ -337,6 +337,34 @@
         "time": "07:00",
         "datetime_iso": "2026-08-20T07:00:00",
         "slot_end": "2026-08-20 07:30"
+      },
+      "has_availability": true
+    },
+    {
+      "id": 4635,
+      "external_id": 8697,
+      "name": "Ruben Blix",
+      "email": "rbf@eie.no",
+      "phone": "+4796048447",
+      "slug": "ruben.blix",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/broker_8697_1768135037328.jpg",
+      "office_name": "EIE Ullevål & Sagene",
+      "office_department_id": 4084,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-ulleval-sagene",
+      "latitude": 59.949923,
+      "longitude": 10.736036,
+      "geo": "59.949923,10.736036",
+      "radius_km": 10,
+      "city": "Oslo",
+      "region": "Østlandet",
+      "title": "Neste ledige tid – EIE Ullevål & Sagene – 20. aug kl. 07:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Ullevål & Sagene er torsdag 20. august kl. 07:00 med Ruben Blix. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4635&brokerName=Ruben%20Blix&brokerEmail=rbf%40eie.no&postalCode=0000&products=147&date=2026-08-20&time=07:00&duration=60",
+      "next_slot": {
+        "date": "2026-08-20",
+        "time": "07:00",
+        "datetime_iso": "2026-08-20T07:00:00",
+        "slot_end": "2026-08-20 08:00"
       },
       "has_availability": true
     },
@@ -5848,34 +5876,6 @@
       "title": "Neste ledige tid – EIE Ullevål & Sagene – 20. aug kl. 09:30",
       "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Ullevål & Sagene er torsdag 20. august kl. 09:30 med Ruben André Winther Gullie. Velkommen til en hyggelig prat.",
       "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=723&brokerName=Ruben%20Andr%C3%A9%20Winther%20Gullie&brokerEmail=rg%40eie.no&postalCode=0000&products=147&date=2026-08-20&time=09:30&duration=60",
-      "next_slot": {
-        "date": "2026-08-20",
-        "time": "09:30",
-        "datetime_iso": "2026-08-20T09:30:00",
-        "slot_end": "2026-08-20 10:30"
-      },
-      "has_availability": true
-    },
-    {
-      "id": 4635,
-      "external_id": 8697,
-      "name": "Ruben Blix",
-      "email": "rbf@eie.no",
-      "phone": "+4796048447",
-      "slug": "ruben.blix",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/broker_8697_1768135037328.jpg",
-      "office_name": "EIE Ullevål & Sagene",
-      "office_department_id": 4084,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-ulleval-sagene",
-      "latitude": 59.949923,
-      "longitude": 10.736036,
-      "geo": "59.949923,10.736036",
-      "radius_km": 10,
-      "city": "Oslo",
-      "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Ullevål & Sagene – 20. aug kl. 09:30",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Ullevål & Sagene er torsdag 20. august kl. 09:30 med Ruben Blix. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4635&brokerName=Ruben%20Blix&brokerEmail=rbf%40eie.no&postalCode=0000&products=147&date=2026-08-20&time=09:30&duration=60",
       "next_slot": {
         "date": "2026-08-20",
         "time": "09:30",
