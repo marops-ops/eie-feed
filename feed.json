@@ -1,65 +1,9 @@
 {
-  "generated_at": "2026-08-20T22:34:04.758789",
+  "generated_at": "2026-08-20T23:33:54.304016",
   "lookahead_days": 14,
   "total_brokers": 344,
-  "brokers_with_availability": 339,
+  "brokers_with_availability": 338,
   "brokers": [
-    {
-      "id": 588,
-      "external_id": 517,
-      "name": "Anders Andersen",
-      "email": "aa@eie.no",
-      "phone": "+4798837452",
-      "slug": "anders.andersen",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/dcac6df70febdb95d922556dad0851334771aec5.jpg",
-      "office_name": "EIE Majorstuen & St. Hanshaugen",
-      "office_department_id": 1868,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-majorstuen-st-hanshaugen",
-      "latitude": 59.920996,
-      "longitude": 10.72762,
-      "geo": "59.920996,10.72762",
-      "radius_km": 10,
-      "city": "Oslo",
-      "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Majorstuen & St. Hanshaugen – 20. aug kl. 22:50",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Majorstuen & St. Hanshaugen er torsdag 20. august kl. 22:50 med Anders Andersen. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=588&brokerName=Anders%20Andersen&brokerEmail=aa%40eie.no&postalCode=0000&products=147&date=2026-08-20&time=22:50&duration=60",
-      "next_slot": {
-        "date": "2026-08-20",
-        "time": "22:50",
-        "datetime_iso": "2026-08-20T22:50:00",
-        "slot_end": "2026-08-20 23:50"
-      },
-      "has_availability": true
-    },
-    {
-      "id": 391,
-      "external_id": 668,
-      "name": "Knut Øyvind Grytten",
-      "email": "kg@eie.no",
-      "phone": "+4793201698",
-      "slug": "knut.oyvind.grytten",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/4dab82e4d078623924c737e4b7e1794044c73f8f.png",
-      "office_name": "EIE Ålesund",
-      "office_department_id": 318,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-alesund",
-      "latitude": 62.4706594,
-      "longitude": 6.1522774,
-      "geo": "62.4706594,6.1522774",
-      "radius_km": 26.6,
-      "city": "Ålesund",
-      "region": "Vestlandet",
-      "title": "Neste ledige tid – EIE Ålesund – 20. aug kl. 23:00",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Ålesund er torsdag 20. august kl. 23:00 med Knut Øyvind Grytten. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=391&brokerName=Knut%20%C3%98yvind%20Grytten&brokerEmail=kg%40eie.no&postalCode=0000&products=147&date=2026-08-20&time=23:00&duration=60",
-      "next_slot": {
-        "date": "2026-08-20",
-        "time": "23:00",
-        "datetime_iso": "2026-08-20T23:00:00",
-        "slot_end": "2026-08-21 00:00"
-      },
-      "has_availability": true
-    },
     {
       "id": 320,
       "external_id": 367,
@@ -3505,6 +3449,34 @@
       "has_availability": true
     },
     {
+      "id": 588,
+      "external_id": 517,
+      "name": "Anders Andersen",
+      "email": "aa@eie.no",
+      "phone": "+4798837452",
+      "slug": "anders.andersen",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/dcac6df70febdb95d922556dad0851334771aec5.jpg",
+      "office_name": "EIE Majorstuen & St. Hanshaugen",
+      "office_department_id": 1868,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-majorstuen-st-hanshaugen",
+      "latitude": 59.920996,
+      "longitude": 10.72762,
+      "geo": "59.920996,10.72762",
+      "radius_km": 10,
+      "city": "Oslo",
+      "region": "Østlandet",
+      "title": "Neste ledige tid – EIE Majorstuen & St. Hanshaugen – 21. aug kl. 08:40",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Majorstuen & St. Hanshaugen er fredag 21. august kl. 08:40 med Anders Andersen. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=588&brokerName=Anders%20Andersen&brokerEmail=aa%40eie.no&postalCode=0000&products=147&date=2026-08-21&time=08:40&duration=60",
+      "next_slot": {
+        "date": "2026-08-21",
+        "time": "08:40",
+        "datetime_iso": "2026-08-21T08:40:00",
+        "slot_end": "2026-08-21 09:40"
+      },
+      "has_availability": true
+    },
+    {
       "id": 150,
       "external_id": 491,
       "name": "Petter Bakke",
@@ -3809,34 +3781,6 @@
         "time": "09:00",
         "datetime_iso": "2026-08-21T09:00:00",
         "slot_end": "2026-08-21 09:45"
-      },
-      "has_availability": true
-    },
-    {
-      "id": 4678,
-      "external_id": 461135,
-      "name": "Christian Haatuft",
-      "email": "chaa@eie.no",
-      "phone": "+4799721192",
-      "slug": "christian.haatuft",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/broker_461135_1768135145949.jpg",
-      "office_name": "EIE Fjellmegleren Geilo",
-      "office_department_id": 461112,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-fjellmegleren-geilo",
-      "latitude": 60.5348158,
-      "longitude": 8.208569,
-      "geo": "60.5348158,8.208569",
-      "radius_km": 20.5,
-      "city": "Geilo",
-      "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Fjellmegleren Geilo – 21. aug kl. 09:00",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Fjellmegleren Geilo er fredag 21. august kl. 09:00 med Christian Haatuft. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4678&brokerName=Christian%20Haatuft&brokerEmail=chaa%40eie.no&postalCode=0000&products=147&date=2026-08-21&time=09:00&duration=60",
-      "next_slot": {
-        "date": "2026-08-21",
-        "time": "09:00",
-        "datetime_iso": "2026-08-21T09:00:00",
-        "slot_end": "2026-08-21 12:00"
       },
       "has_availability": true
     },
@@ -4625,6 +4569,34 @@
       "has_availability": true
     },
     {
+      "id": 391,
+      "external_id": 668,
+      "name": "Knut Øyvind Grytten",
+      "email": "kg@eie.no",
+      "phone": "+4793201698",
+      "slug": "knut.oyvind.grytten",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/4dab82e4d078623924c737e4b7e1794044c73f8f.png",
+      "office_name": "EIE Ålesund",
+      "office_department_id": 318,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-alesund",
+      "latitude": 62.4706594,
+      "longitude": 6.1522774,
+      "geo": "62.4706594,6.1522774",
+      "radius_km": 26.6,
+      "city": "Ålesund",
+      "region": "Vestlandet",
+      "title": "Neste ledige tid – EIE Ålesund – 21. aug kl. 09:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Ålesund er fredag 21. august kl. 09:00 med Knut Øyvind Grytten. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=391&brokerName=Knut%20%C3%98yvind%20Grytten&brokerEmail=kg%40eie.no&postalCode=0000&products=147&date=2026-08-21&time=09:00&duration=60",
+      "next_slot": {
+        "date": "2026-08-21",
+        "time": "09:00",
+        "datetime_iso": "2026-08-21T09:00:00",
+        "slot_end": "2026-08-21 10:00"
+      },
+      "has_availability": true
+    },
+    {
       "id": 227,
       "external_id": 528,
       "name": "Kristian Birkan",
@@ -5320,6 +5292,34 @@
         "date": "2026-08-21",
         "time": "09:00",
         "datetime_iso": "2026-08-21T09:00:00",
+        "slot_end": "2026-08-21 09:30"
+      },
+      "has_availability": true
+    },
+    {
+      "id": 4580,
+      "external_id": 55226,
+      "name": "Shayan Ferdowsian",
+      "email": "shf@eie.no",
+      "phone": "+4741077632",
+      "slug": "shayan.ferdowsian",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/broker_55226_1768135097116.jpg",
+      "office_name": "EIE Lørenskog",
+      "office_department_id": 334,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-lorenskog",
+      "latitude": 59.9378546,
+      "longitude": 10.9540899,
+      "geo": "59.9378546,10.9540899",
+      "radius_km": 10,
+      "city": "Lørenskog",
+      "region": "Østlandet",
+      "title": "Neste ledige tid – EIE Lørenskog – 21. aug kl. 09:15",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Lørenskog er fredag 21. august kl. 09:15 med Shayan Ferdowsian. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4580&brokerName=Shayan%20Ferdowsian&brokerEmail=shf%40eie.no&postalCode=0000&products=147&date=2026-08-21&time=09:15&duration=60",
+      "next_slot": {
+        "date": "2026-08-21",
+        "time": "09:15",
+        "datetime_iso": "2026-08-21T09:15:00",
         "slot_end": "2026-08-21 09:30"
       },
       "has_availability": true
@@ -6133,34 +6133,6 @@
         "time": "10:00",
         "datetime_iso": "2026-08-21T10:00:00",
         "slot_end": "2026-08-21 11:00"
-      },
-      "has_availability": true
-    },
-    {
-      "id": 4580,
-      "external_id": 55226,
-      "name": "Shayan Ferdowsian",
-      "email": "shf@eie.no",
-      "phone": "+4741077632",
-      "slug": "shayan.ferdowsian",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/broker_55226_1768135097116.jpg",
-      "office_name": "EIE Lørenskog",
-      "office_department_id": 334,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-lorenskog",
-      "latitude": 59.9378546,
-      "longitude": 10.9540899,
-      "geo": "59.9378546,10.9540899",
-      "radius_km": 10,
-      "city": "Lørenskog",
-      "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Lørenskog – 21. aug kl. 10:00",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Lørenskog er fredag 21. august kl. 10:00 med Shayan Ferdowsian. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4580&brokerName=Shayan%20Ferdowsian&brokerEmail=shf%40eie.no&postalCode=0000&products=147&date=2026-08-21&time=10:00&duration=60",
-      "next_slot": {
-        "date": "2026-08-21",
-        "time": "10:00",
-        "datetime_iso": "2026-08-21T10:00:00",
-        "slot_end": "2026-08-21 10:30"
       },
       "has_availability": true
     },
@@ -7364,7 +7336,7 @@
         "date": "2026-08-21",
         "time": "13:00",
         "datetime_iso": "2026-08-21T13:00:00",
-        "slot_end": "2026-08-21 13:45"
+        "slot_end": "2026-08-21 16:00"
       },
       "has_availability": true
     },
@@ -9016,7 +8988,7 @@
         "date": "2026-08-24",
         "time": "16:15",
         "datetime_iso": "2026-08-24T16:15:00",
-        "slot_end": "2026-08-24 17:15"
+        "slot_end": "2026-08-24 17:45"
       },
       "has_availability": true
     },
@@ -9516,6 +9488,29 @@
       "title": "Book megler – EIE Bærum",
       "description": "Book tid med din lokale megler hos EIE Bærum. Se ledige tider og finn en tid som passer deg.",
       "direct_booking_url": "https://booking.eie.no/department/None",
+      "next_slot": null,
+      "has_availability": false
+    },
+    {
+      "id": 4678,
+      "external_id": 461135,
+      "name": "Christian Haatuft",
+      "email": "chaa@eie.no",
+      "phone": "+4799721192",
+      "slug": "christian.haatuft",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/broker_461135_1768135145949.jpg",
+      "office_name": "EIE Fjellmegleren Geilo",
+      "office_department_id": 461112,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-fjellmegleren-geilo",
+      "latitude": 60.5348158,
+      "longitude": 8.208569,
+      "geo": "60.5348158,8.208569",
+      "radius_km": 20.5,
+      "city": "Geilo",
+      "region": "Østlandet",
+      "title": "Book megler – EIE Fjellmegleren Geilo",
+      "description": "Book tid med din lokale megler hos EIE Fjellmegleren Geilo. Se ledige tider og finn en tid som passer deg.",
+      "direct_booking_url": "https://booking.eie.no/department/461112",
       "next_slot": null,
       "has_availability": false
     },
