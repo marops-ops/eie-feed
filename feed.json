@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T05:36:15.956728",
+  "generated_at": "2026-08-23T06:46:58.712736",
   "lookahead_days": 14,
   "total_brokers": 344,
   "brokers_with_availability": 339,
@@ -3449,34 +3449,6 @@
       "has_availability": true
     },
     {
-      "id": 205,
-      "external_id": 568,
-      "name": "Daniel Grønås",
-      "email": "dg@eie.no",
-      "phone": "+4790999786",
-      "slug": "daniel.gronas",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/b0b1d4fc3f298d5e8867ccec8331b6e21794c71d.jpg",
-      "office_name": "EIE Bergen",
-      "office_department_id": 462028,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-bergen",
-      "latitude": 60.373616,
-      "longitude": 5.341296,
-      "geo": "60.373616,5.341296",
-      "radius_km": 10,
-      "city": "Bergen",
-      "region": "Vestlandet",
-      "title": "Neste ledige tid – EIE Bergen – 23. aug kl. 13:00",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Bergen er søndag 23. august kl. 13:00 med Daniel Grønås. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=205&brokerName=Daniel%20Gr%C3%B8n%C3%A5s&brokerEmail=dg%40eie.no&postalCode=0000&products=147&date=2026-08-23&time=13:00&duration=60",
-      "next_slot": {
-        "date": "2026-08-23",
-        "time": "13:00",
-        "datetime_iso": "2026-08-23T13:00:00",
-        "slot_end": "2026-08-23 14:00"
-      },
-      "has_availability": true
-    },
-    {
       "id": 515,
       "external_id": 506,
       "name": "Eline Tilley",
@@ -6408,6 +6380,34 @@
       "title": "Neste ledige tid – EIE Sandvika – 24. aug kl. 09:00",
       "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Sandvika er mandag 24. august kl. 09:00 med Carina Aas. Velkommen til en hyggelig prat.",
       "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4425&brokerName=Carina%20Aas&brokerEmail=car%40eie.no&postalCode=0000&products=147&date=2026-08-24&time=09:00&duration=60",
+      "next_slot": {
+        "date": "2026-08-24",
+        "time": "09:00",
+        "datetime_iso": "2026-08-24T09:00:00",
+        "slot_end": "2026-08-24 09:30"
+      },
+      "has_availability": true
+    },
+    {
+      "id": 205,
+      "external_id": 568,
+      "name": "Daniel Grønås",
+      "email": "dg@eie.no",
+      "phone": "+4790999786",
+      "slug": "daniel.gronas",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/b0b1d4fc3f298d5e8867ccec8331b6e21794c71d.jpg",
+      "office_name": "EIE Bergen",
+      "office_department_id": 462028,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-bergen",
+      "latitude": 60.373616,
+      "longitude": 5.341296,
+      "geo": "60.373616,5.341296",
+      "radius_km": 10,
+      "city": "Bergen",
+      "region": "Vestlandet",
+      "title": "Neste ledige tid – EIE Bergen – 24. aug kl. 09:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Bergen er mandag 24. august kl. 09:00 med Daniel Grønås. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=205&brokerName=Daniel%20Gr%C3%B8n%C3%A5s&brokerEmail=dg%40eie.no&postalCode=0000&products=147&date=2026-08-24&time=09:00&duration=60",
       "next_slot": {
         "date": "2026-08-24",
         "time": "09:00",
