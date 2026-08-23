@@ -1,37 +1,9 @@
 {
-  "generated_at": "2026-08-23T22:27:59.759949",
+  "generated_at": "2026-08-23T23:28:11.927980",
   "lookahead_days": 14,
   "total_brokers": 344,
   "brokers_with_availability": 339,
   "brokers": [
-    {
-      "id": 588,
-      "external_id": 517,
-      "name": "Anders Andersen",
-      "email": "aa@eie.no",
-      "phone": "+4798837452",
-      "slug": "anders.andersen",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/dcac6df70febdb95d922556dad0851334771aec5.jpg",
-      "office_name": "EIE Majorstuen & St. Hanshaugen",
-      "office_department_id": 1868,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-majorstuen-st-hanshaugen",
-      "latitude": 59.920996,
-      "longitude": 10.72762,
-      "geo": "59.920996,10.72762",
-      "radius_km": 10,
-      "city": "Oslo",
-      "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Majorstuen & St. Hanshaugen – 23. aug kl. 22:40",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Majorstuen & St. Hanshaugen er søndag 23. august kl. 22:40 med Anders Andersen. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=588&brokerName=Anders%20Andersen&brokerEmail=aa%40eie.no&postalCode=0000&products=147&date=2026-08-23&time=22:40&duration=60",
-      "next_slot": {
-        "date": "2026-08-23",
-        "time": "22:40",
-        "datetime_iso": "2026-08-23T22:40:00",
-        "slot_end": "2026-08-23 23:40"
-      },
-      "has_availability": true
-    },
     {
       "id": 4541,
       "external_id": 465406,
@@ -197,6 +169,34 @@
         "time": "06:00",
         "datetime_iso": "2026-08-24T06:00:00",
         "slot_end": "2026-08-24 07:30"
+      },
+      "has_availability": true
+    },
+    {
+      "id": 410,
+      "external_id": 493,
+      "name": "Ingrid Bøhmer",
+      "email": "ibo@eie.no",
+      "phone": "+4797411770",
+      "slug": "ingrid.bohmer",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/d93fe2f9ff8258b0e7f2500c7ca16cacb062cb53.jpg",
+      "office_name": "EIE Hamar",
+      "office_department_id": 261,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-hamar",
+      "latitude": 60.794618,
+      "longitude": 11.071581,
+      "geo": "60.794618,11.071581",
+      "radius_km": 10,
+      "city": "Hamar",
+      "region": "Innlandet",
+      "title": "Neste ledige tid – EIE Hamar – 24. aug kl. 06:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Hamar er mandag 24. august kl. 06:00 med Ingrid Bøhmer. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=410&brokerName=Ingrid%20B%C3%B8hmer&brokerEmail=ibo%40eie.no&postalCode=0000&products=147&date=2026-08-24&time=06:00&duration=60",
+      "next_slot": {
+        "date": "2026-08-24",
+        "time": "06:00",
+        "datetime_iso": "2026-08-24T06:00:00",
+        "slot_end": "2026-08-24 12:00"
       },
       "has_availability": true
     },
@@ -1653,34 +1653,6 @@
         "time": "08:30",
         "datetime_iso": "2026-08-24T08:30:00",
         "slot_end": "2026-08-24 09:30"
-      },
-      "has_availability": true
-    },
-    {
-      "id": 410,
-      "external_id": 493,
-      "name": "Ingrid Bøhmer",
-      "email": "ibo@eie.no",
-      "phone": "+4797411770",
-      "slug": "ingrid.bohmer",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/d93fe2f9ff8258b0e7f2500c7ca16cacb062cb53.jpg",
-      "office_name": "EIE Hamar",
-      "office_department_id": 261,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-hamar",
-      "latitude": 60.794618,
-      "longitude": 11.071581,
-      "geo": "60.794618,11.071581",
-      "radius_km": 10,
-      "city": "Hamar",
-      "region": "Innlandet",
-      "title": "Neste ledige tid – EIE Hamar – 24. aug kl. 08:30",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Hamar er mandag 24. august kl. 08:30 med Ingrid Bøhmer. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=410&brokerName=Ingrid%20B%C3%B8hmer&brokerEmail=ibo%40eie.no&postalCode=0000&products=147&date=2026-08-24&time=08:30&duration=60",
-      "next_slot": {
-        "date": "2026-08-24",
-        "time": "08:30",
-        "datetime_iso": "2026-08-24T08:30:00",
-        "slot_end": "2026-08-24 10:00"
       },
       "has_availability": true
     },
@@ -4952,6 +4924,34 @@
       "title": "Neste ledige tid – EIE Torshov & Nydalen – 24. aug kl. 09:30",
       "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Torshov & Nydalen er mandag 24. august kl. 09:30 med Ajdin Sarajlija. Velkommen til en hyggelig prat.",
       "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4850&brokerName=Ajdin%20Sarajlija&brokerEmail=ajs%40eie.no&postalCode=0000&products=147&date=2026-08-24&time=09:30&duration=60",
+      "next_slot": {
+        "date": "2026-08-24",
+        "time": "09:30",
+        "datetime_iso": "2026-08-24T09:30:00",
+        "slot_end": "2026-08-24 10:15"
+      },
+      "has_availability": true
+    },
+    {
+      "id": 588,
+      "external_id": 517,
+      "name": "Anders Andersen",
+      "email": "aa@eie.no",
+      "phone": "+4798837452",
+      "slug": "anders.andersen",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/dcac6df70febdb95d922556dad0851334771aec5.jpg",
+      "office_name": "EIE Majorstuen & St. Hanshaugen",
+      "office_department_id": 1868,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-majorstuen-st-hanshaugen",
+      "latitude": 59.920996,
+      "longitude": 10.72762,
+      "geo": "59.920996,10.72762",
+      "radius_km": 10,
+      "city": "Oslo",
+      "region": "Østlandet",
+      "title": "Neste ledige tid – EIE Majorstuen & St. Hanshaugen – 24. aug kl. 09:30",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Majorstuen & St. Hanshaugen er mandag 24. august kl. 09:30 med Anders Andersen. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=588&brokerName=Anders%20Andersen&brokerEmail=aa%40eie.no&postalCode=0000&products=147&date=2026-08-24&time=09:30&duration=60",
       "next_slot": {
         "date": "2026-08-24",
         "time": "09:30",
