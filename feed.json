@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T06:46:58.712736",
+  "generated_at": "2026-08-23T07:41:45.613323",
   "lookahead_days": 14,
   "total_brokers": 344,
   "brokers_with_availability": 339,
@@ -841,34 +841,6 @@
         "time": "10:32",
         "datetime_iso": "2026-08-23T10:32:00",
         "slot_end": "2026-08-23 14:00"
-      },
-      "has_availability": true
-    },
-    {
-      "id": 4839,
-      "external_id": 538647,
-      "name": "Hege Stange",
-      "email": "hege.stange@eie.no",
-      "phone": "+4792806412",
-      "slug": "hege.stange",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/broker_538647_1781062220050.jpg",
-      "office_name": "EIE Haugesund",
-      "office_department_id": 537661,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-haugesund",
-      "latitude": 59.4120179,
-      "longitude": 5.2712576,
-      "geo": "59.4120179,5.2712576",
-      "radius_km": 10,
-      "city": "Haugesund",
-      "region": "Vestlandet",
-      "title": "Neste ledige tid – EIE Haugesund – 23. aug kl. 10:45",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Haugesund er søndag 23. august kl. 10:45 med Hege Stange. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4839&brokerName=Hege%20Stange&brokerEmail=hege.stange%40eie.no&postalCode=0000&products=147&date=2026-08-23&time=10:45&duration=60",
-      "next_slot": {
-        "date": "2026-08-23",
-        "time": "10:45",
-        "datetime_iso": "2026-08-23T10:45:00",
-        "slot_end": "2026-08-23 13:00"
       },
       "has_availability": true
     },
@@ -7981,6 +7953,34 @@
         "time": "11:00",
         "datetime_iso": "2026-08-24T11:00:00",
         "slot_end": "2026-08-24 11:30"
+      },
+      "has_availability": true
+    },
+    {
+      "id": 4839,
+      "external_id": 538647,
+      "name": "Hege Stange",
+      "email": "hege.stange@eie.no",
+      "phone": "+4792806412",
+      "slug": "hege.stange",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/broker_538647_1781062220050.jpg",
+      "office_name": "EIE Haugesund",
+      "office_department_id": 537661,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-haugesund",
+      "latitude": 59.4120179,
+      "longitude": 5.2712576,
+      "geo": "59.4120179,5.2712576",
+      "radius_km": 10,
+      "city": "Haugesund",
+      "region": "Vestlandet",
+      "title": "Neste ledige tid – EIE Haugesund – 24. aug kl. 11:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Haugesund er mandag 24. august kl. 11:00 med Hege Stange. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4839&brokerName=Hege%20Stange&brokerEmail=hege.stange%40eie.no&postalCode=0000&products=147&date=2026-08-24&time=11:00&duration=60",
+      "next_slot": {
+        "date": "2026-08-24",
+        "time": "11:00",
+        "datetime_iso": "2026-08-24T11:00:00",
+        "slot_end": "2026-08-24 12:00"
       },
       "has_availability": true
     },
