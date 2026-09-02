@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-01T23:11:33.531425",
+  "generated_at": "2026-09-02T03:02:34.880005",
   "lookahead_days": 14,
   "total_brokers": 344,
-  "brokers_with_availability": 339,
+  "brokers_with_availability": 338,
   "brokers": [
     {
       "id": 4541,
@@ -2464,7 +2464,7 @@
         "date": "2026-09-02",
         "time": "08:30",
         "datetime_iso": "2026-09-02T08:30:00",
-        "slot_end": "2026-09-02 10:00"
+        "slot_end": "2026-09-02 09:30"
       },
       "has_availability": true
     },
@@ -2801,34 +2801,6 @@
         "time": "08:45",
         "datetime_iso": "2026-09-02T08:45:00",
         "slot_end": "2026-09-02 10:00"
-      },
-      "has_availability": true
-    },
-    {
-      "id": 697,
-      "external_id": 8931,
-      "name": "Nina Dæhli Harviken",
-      "email": "ndh@eie.no",
-      "phone": "+4790996276",
-      "slug": "nina.daehli.harviken",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/3f2d844515cc09755a5b4e19ee97e7146d08fe52.jpg",
-      "office_name": "EIE Hamar",
-      "office_department_id": 261,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-hamar",
-      "latitude": 60.794618,
-      "longitude": 11.071581,
-      "geo": "60.794618,11.071581",
-      "radius_km": 10,
-      "city": "Hamar",
-      "region": "Innlandet",
-      "title": "Neste ledige tid – EIE Hamar – 2. sep kl. 08:45",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Hamar er onsdag 2. september kl. 08:45 med Nina Dæhli Harviken. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=697&brokerName=Nina%20D%C3%A6hli%20Harviken&brokerEmail=ndh%40eie.no&postalCode=0000&products=147&date=2026-09-02&time=08:45&duration=60",
-      "next_slot": {
-        "date": "2026-09-02",
-        "time": "08:45",
-        "datetime_iso": "2026-09-02T08:45:00",
-        "slot_end": "2026-09-02 09:45"
       },
       "has_availability": true
     },
@@ -9608,6 +9580,29 @@
       "title": "Book megler – EIE Bergen",
       "description": "Book tid med din lokale megler hos EIE Bergen. Se ledige tider og finn en tid som passer deg.",
       "direct_booking_url": "https://booking.eie.no/department/462028",
+      "next_slot": null,
+      "has_availability": false
+    },
+    {
+      "id": 697,
+      "external_id": 8931,
+      "name": "Nina Dæhli Harviken",
+      "email": "ndh@eie.no",
+      "phone": "+4790996276",
+      "slug": "nina.daehli.harviken",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/3f2d844515cc09755a5b4e19ee97e7146d08fe52.jpg",
+      "office_name": "EIE Hamar",
+      "office_department_id": 261,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-hamar",
+      "latitude": 60.794618,
+      "longitude": 11.071581,
+      "geo": "60.794618,11.071581",
+      "radius_km": 10,
+      "city": "Hamar",
+      "region": "Innlandet",
+      "title": "Book megler – EIE Hamar",
+      "description": "Book tid med din lokale megler hos EIE Hamar. Se ledige tider og finn en tid som passer deg.",
+      "direct_booking_url": "https://booking.eie.no/department/261",
       "next_slot": null,
       "has_availability": false
     }
