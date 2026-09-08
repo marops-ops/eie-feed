@@ -1,65 +1,9 @@
 {
-  "generated_at": "2026-09-08T21:43:13.719197",
+  "generated_at": "2026-09-08T23:59:15.289651",
   "lookahead_days": 14,
   "total_brokers": 351,
   "brokers_with_availability": 345,
   "brokers": [
-    {
-      "id": 440,
-      "external_id": 632,
-      "name": "Andreas Forsell Lund",
-      "email": "afl@eie.no",
-      "phone": "+4799343800",
-      "slug": "andreas.forsell.lund",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/ed6dcd70586a6f3e16556016205291d302864bf9.png",
-      "office_name": "EIE Heimdal",
-      "office_department_id": 303,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-heimdal",
-      "latitude": 63.348295,
-      "longitude": 10.358794,
-      "geo": "63.348295,10.358794",
-      "radius_km": 10,
-      "city": "Heimdal",
-      "region": "Innlandet",
-      "title": "Neste ledige tid – EIE Heimdal – 8. sep kl. 22:00",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Heimdal er tirsdag 8. september kl. 22:00 med Andreas Forsell Lund. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=440&brokerName=Andreas%20Forsell%20Lund&brokerEmail=afl%40eie.no&postalCode=0000&products=147&date=2026-09-08&time=22:00&duration=60",
-      "next_slot": {
-        "date": "2026-09-08",
-        "time": "22:00",
-        "datetime_iso": "2026-09-08T22:00:00",
-        "slot_end": "2026-09-08 23:00"
-      },
-      "has_availability": true
-    },
-    {
-      "id": 588,
-      "external_id": 517,
-      "name": "Anders Andersen",
-      "email": "aa@eie.no",
-      "phone": "+4798837452",
-      "slug": "anders.andersen",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/dcac6df70febdb95d922556dad0851334771aec5.jpg",
-      "office_name": "EIE Majorstuen & St. Hanshaugen",
-      "office_department_id": 1868,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-majorstuen-st-hanshaugen",
-      "latitude": 59.920996,
-      "longitude": 10.72762,
-      "geo": "59.920996,10.72762",
-      "radius_km": 10,
-      "city": "Oslo",
-      "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Majorstuen & St. Hanshaugen – 8. sep kl. 22:50",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Majorstuen & St. Hanshaugen er tirsdag 8. september kl. 22:50 med Anders Andersen. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=588&brokerName=Anders%20Andersen&brokerEmail=aa%40eie.no&postalCode=0000&products=147&date=2026-09-08&time=22:50&duration=60",
-      "next_slot": {
-        "date": "2026-09-08",
-        "time": "22:50",
-        "datetime_iso": "2026-09-08T22:50:00",
-        "slot_end": "2026-09-08 23:50"
-      },
-      "has_availability": true
-    },
     {
       "id": 4678,
       "external_id": 461135,
@@ -925,6 +869,34 @@
         "time": "07:00",
         "datetime_iso": "2026-09-09T07:00:00",
         "slot_end": "2026-09-09 07:30"
+      },
+      "has_availability": true
+    },
+    {
+      "id": 440,
+      "external_id": 632,
+      "name": "Andreas Forsell Lund",
+      "email": "afl@eie.no",
+      "phone": "+4799343800",
+      "slug": "andreas.forsell.lund",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/ed6dcd70586a6f3e16556016205291d302864bf9.png",
+      "office_name": "EIE Heimdal",
+      "office_department_id": 303,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-heimdal",
+      "latitude": 63.348295,
+      "longitude": 10.358794,
+      "geo": "63.348295,10.358794",
+      "radius_km": 10,
+      "city": "Heimdal",
+      "region": "Innlandet",
+      "title": "Neste ledige tid – EIE Heimdal – 9. sep kl. 07:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Heimdal er onsdag 9. september kl. 07:00 med Andreas Forsell Lund. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=440&brokerName=Andreas%20Forsell%20Lund&brokerEmail=afl%40eie.no&postalCode=0000&products=147&date=2026-09-09&time=07:00&duration=60",
+      "next_slot": {
+        "date": "2026-09-09",
+        "time": "07:00",
+        "datetime_iso": "2026-09-09T07:00:00",
+        "slot_end": "2026-09-09 08:00"
       },
       "has_availability": true
     },
@@ -2828,7 +2800,7 @@
         "date": "2026-09-09",
         "time": "09:00",
         "datetime_iso": "2026-09-09T09:00:00",
-        "slot_end": "2026-09-09 09:30"
+        "slot_end": "2026-09-09 10:00"
       },
       "has_availability": true
     },
@@ -2856,7 +2828,7 @@
         "date": "2026-09-09",
         "time": "09:00",
         "datetime_iso": "2026-09-09T09:00:00",
-        "slot_end": "2026-09-09 09:30"
+        "slot_end": "2026-09-09 10:00"
       },
       "has_availability": true
     },
@@ -3472,7 +3444,7 @@
         "date": "2026-09-09",
         "time": "09:00",
         "datetime_iso": "2026-09-09T09:00:00",
-        "slot_end": "2026-09-09 09:30"
+        "slot_end": "2026-09-09 10:00"
       },
       "has_availability": true
     },
@@ -4732,7 +4704,7 @@
         "date": "2026-09-09",
         "time": "09:00",
         "datetime_iso": "2026-09-09T09:00:00",
-        "slot_end": "2026-09-09 09:30"
+        "slot_end": "2026-09-09 10:00"
       },
       "has_availability": true
     },
@@ -6105,6 +6077,34 @@
         "time": "11:00",
         "datetime_iso": "2026-09-09T11:00:00",
         "slot_end": "2026-09-09 11:30"
+      },
+      "has_availability": true
+    },
+    {
+      "id": 588,
+      "external_id": 517,
+      "name": "Anders Andersen",
+      "email": "aa@eie.no",
+      "phone": "+4798837452",
+      "slug": "anders.andersen",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/dcac6df70febdb95d922556dad0851334771aec5.jpg",
+      "office_name": "EIE Majorstuen & St. Hanshaugen",
+      "office_department_id": 1868,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-majorstuen-st-hanshaugen",
+      "latitude": 59.920996,
+      "longitude": 10.72762,
+      "geo": "59.920996,10.72762",
+      "radius_km": 10,
+      "city": "Oslo",
+      "region": "Østlandet",
+      "title": "Neste ledige tid – EIE Majorstuen & St. Hanshaugen – 9. sep kl. 11:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Majorstuen & St. Hanshaugen er onsdag 9. september kl. 11:00 med Anders Andersen. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=588&brokerName=Anders%20Andersen&brokerEmail=aa%40eie.no&postalCode=0000&products=147&date=2026-09-09&time=11:00&duration=60",
+      "next_slot": {
+        "date": "2026-09-09",
+        "time": "11:00",
+        "datetime_iso": "2026-09-09T11:00:00",
+        "slot_end": "2026-09-09 12:00"
       },
       "has_availability": true
     },
