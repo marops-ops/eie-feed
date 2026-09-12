@@ -1,37 +1,9 @@
 {
-  "generated_at": "2026-09-11T22:25:00.753694",
+  "generated_at": "2026-09-12T01:04:34.477695",
   "lookahead_days": 14,
   "total_brokers": 351,
   "brokers_with_availability": 345,
   "brokers": [
-    {
-      "id": 588,
-      "external_id": 517,
-      "name": "Anders Andersen",
-      "email": "aa@eie.no",
-      "phone": "+4798837452",
-      "slug": "anders.andersen",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/dcac6df70febdb95d922556dad0851334771aec5.jpg",
-      "office_name": "EIE Majorstuen & St. Hanshaugen",
-      "office_department_id": 1868,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-majorstuen-st-hanshaugen",
-      "latitude": 59.920996,
-      "longitude": 10.72762,
-      "geo": "59.920996,10.72762",
-      "radius_km": 10,
-      "city": "Oslo",
-      "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Majorstuen & St. Hanshaugen – 11. sep kl. 22:50",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Majorstuen & St. Hanshaugen er fredag 11. september kl. 22:50 med Anders Andersen. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=588&brokerName=Anders%20Andersen&brokerEmail=aa%40eie.no&postalCode=0000&products=147&date=2026-09-11&time=22:50&duration=60",
-      "next_slot": {
-        "date": "2026-09-11",
-        "time": "22:50",
-        "datetime_iso": "2026-09-11T22:50:00",
-        "slot_end": "2026-09-11 23:50"
-      },
-      "has_availability": true
-    },
     {
       "id": 73,
       "external_id": 397,
@@ -1368,6 +1340,34 @@
       "title": "Neste ledige tid – EIE Valkyrien – 12. sep kl. 12:00",
       "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Valkyrien er lørdag 12. september kl. 12:00 med Ada Kjenner. Velkommen til en hyggelig prat.",
       "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=633&brokerName=Ada%20Kjenner&brokerEmail=akj%40eie.no&postalCode=0000&products=147&date=2026-09-12&time=12:00&duration=60",
+      "next_slot": {
+        "date": "2026-09-12",
+        "time": "12:00",
+        "datetime_iso": "2026-09-12T12:00:00",
+        "slot_end": "2026-09-12 13:00"
+      },
+      "has_availability": true
+    },
+    {
+      "id": 588,
+      "external_id": 517,
+      "name": "Anders Andersen",
+      "email": "aa@eie.no",
+      "phone": "+4798837452",
+      "slug": "anders.andersen",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/dcac6df70febdb95d922556dad0851334771aec5.jpg",
+      "office_name": "EIE Majorstuen & St. Hanshaugen",
+      "office_department_id": 1868,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-majorstuen-st-hanshaugen",
+      "latitude": 59.920996,
+      "longitude": 10.72762,
+      "geo": "59.920996,10.72762",
+      "radius_km": 10,
+      "city": "Oslo",
+      "region": "Østlandet",
+      "title": "Neste ledige tid – EIE Majorstuen & St. Hanshaugen – 12. sep kl. 12:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Majorstuen & St. Hanshaugen er lørdag 12. september kl. 12:00 med Anders Andersen. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=588&brokerName=Anders%20Andersen&brokerEmail=aa%40eie.no&postalCode=0000&products=147&date=2026-09-12&time=12:00&duration=60",
       "next_slot": {
         "date": "2026-09-12",
         "time": "12:00",
@@ -4956,7 +4956,7 @@
         "date": "2026-09-13",
         "time": "13:00",
         "datetime_iso": "2026-09-13T13:00:00",
-        "slot_end": "2026-09-13 13:45"
+        "slot_end": "2026-09-13 13:30"
       },
       "has_availability": true
     },
@@ -7168,7 +7168,7 @@
         "date": "2026-09-14",
         "time": "09:00",
         "datetime_iso": "2026-09-14T09:00:00",
-        "slot_end": "2026-09-14 09:30"
+        "slot_end": "2026-09-14 09:45"
       },
       "has_availability": true
     },
@@ -7840,7 +7840,7 @@
         "date": "2026-09-14",
         "time": "09:00",
         "datetime_iso": "2026-09-14T09:00:00",
-        "slot_end": "2026-09-14 10:30"
+        "slot_end": "2026-09-14 09:30"
       },
       "has_availability": true
     },
@@ -9128,7 +9128,7 @@
         "date": "2026-09-16",
         "time": "09:00",
         "datetime_iso": "2026-09-16T09:00:00",
-        "slot_end": "2026-09-16 10:00"
+        "slot_end": "2026-09-16 09:30"
       },
       "has_availability": true
     },
