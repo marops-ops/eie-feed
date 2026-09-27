@@ -1,37 +1,9 @@
 {
-  "generated_at": "2026-09-27T00:24:29.467582",
+  "generated_at": "2026-09-27T06:22:16.289269",
   "lookahead_days": 14,
   "total_brokers": 343,
   "brokers_with_availability": 341,
   "brokers": [
-    {
-      "id": 73,
-      "external_id": 397,
-      "name": "Børge Martinussen",
-      "email": "bm@eie.no",
-      "phone": "+4790821426",
-      "slug": "borge.martinussen",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/016b86f7394b8668672101c76a973fe4a8d5aebf.jpg",
-      "office_name": "EIE Tromsø",
-      "office_department_id": 56288,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-tromso",
-      "latitude": 69.6473089,
-      "longitude": 18.9514845,
-      "geo": "69.6473089,18.9514845",
-      "radius_km": 66.9,
-      "city": "Tromsø",
-      "region": "Nord-Norge",
-      "title": "Neste ledige tid – EIE Tromsø – 27. sep kl. 01:00",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Tromsø er søndag 27. september kl. 01:00 med Børge Martinussen. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=73&brokerName=B%C3%B8rge%20Martinussen&brokerEmail=bm%40eie.no&postalCode=0000&products=147&date=2026-09-27&time=01:00&duration=60",
-      "next_slot": {
-        "date": "2026-09-27",
-        "time": "01:00",
-        "datetime_iso": "2026-09-27T01:00:00",
-        "slot_end": "2026-09-28 01:00"
-      },
-      "has_availability": true
-    },
     {
       "id": 4138,
       "external_id": 430988,
@@ -49,14 +21,14 @@
       "radius_km": 10,
       "city": "Molde",
       "region": "Vestlandet",
-      "title": "Neste ledige tid – EIE Molde – 27. sep kl. 05:30",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Molde er søndag 27. september kl. 05:30 med Alexander Bjerkås. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4138&brokerName=Alexander%20Bjerk%C3%A5s&brokerEmail=abj%40eie.no&postalCode=0000&products=147&date=2026-09-27&time=05:30&duration=60",
+      "title": "Neste ledige tid – EIE Molde – 27. sep kl. 07:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Molde er søndag 27. september kl. 07:00 med Alexander Bjerkås. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4138&brokerName=Alexander%20Bjerk%C3%A5s&brokerEmail=abj%40eie.no&postalCode=0000&products=147&date=2026-09-27&time=07:00&duration=60",
       "next_slot": {
         "date": "2026-09-27",
-        "time": "05:30",
-        "datetime_iso": "2026-09-27T05:30:00",
-        "slot_end": "2026-09-27 17:00"
+        "time": "07:00",
+        "datetime_iso": "2026-09-27T07:00:00",
+        "slot_end": "2026-09-27 13:30"
       },
       "has_availability": true
     },
@@ -3612,7 +3584,7 @@
         "date": "2026-09-27",
         "time": "14:00",
         "datetime_iso": "2026-09-27T14:00:00",
-        "slot_end": "2026-09-27 15:30"
+        "slot_end": "2026-09-27 15:00"
       },
       "has_availability": true
     },
@@ -4593,6 +4565,34 @@
         "time": "05:00",
         "datetime_iso": "2026-09-28T05:00:00",
         "slot_end": "2026-09-28 05:30"
+      },
+      "has_availability": true
+    },
+    {
+      "id": 73,
+      "external_id": 397,
+      "name": "Børge Martinussen",
+      "email": "bm@eie.no",
+      "phone": "+4790821426",
+      "slug": "borge.martinussen",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/016b86f7394b8668672101c76a973fe4a8d5aebf.jpg",
+      "office_name": "EIE Tromsø",
+      "office_department_id": 56288,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-tromso",
+      "latitude": 69.6473089,
+      "longitude": 18.9514845,
+      "geo": "69.6473089,18.9514845",
+      "radius_km": 66.9,
+      "city": "Tromsø",
+      "region": "Nord-Norge",
+      "title": "Neste ledige tid – EIE Tromsø – 28. sep kl. 06:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Tromsø er mandag 28. september kl. 06:00 med Børge Martinussen. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=73&brokerName=B%C3%B8rge%20Martinussen&brokerEmail=bm%40eie.no&postalCode=0000&products=147&date=2026-09-28&time=06:00&duration=60",
+      "next_slot": {
+        "date": "2026-09-28",
+        "time": "06:00",
+        "datetime_iso": "2026-09-28T06:00:00",
+        "slot_end": "2026-09-28 23:00"
       },
       "has_availability": true
     },
@@ -6776,7 +6776,7 @@
         "date": "2026-09-28",
         "time": "09:00",
         "datetime_iso": "2026-09-28T09:00:00",
-        "slot_end": "2026-09-28 10:00"
+        "slot_end": "2026-09-28 10:30"
       },
       "has_availability": true
     },
@@ -8680,7 +8680,7 @@
         "date": "2026-09-29",
         "time": "09:00",
         "datetime_iso": "2026-09-29T09:00:00",
-        "slot_end": "2026-09-29 09:30"
+        "slot_end": "2026-09-29 11:00"
       },
       "has_availability": true
     },
