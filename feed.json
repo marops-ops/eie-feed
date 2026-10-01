@@ -1,233 +1,9 @@
 {
-  "generated_at": "2026-09-30T23:37:19.941480",
+  "generated_at": "2026-10-01T04:19:34.191592",
   "lookahead_days": 14,
-  "total_brokers": 343,
-  "brokers_with_availability": 341,
+  "total_brokers": 342,
+  "brokers_with_availability": 340,
   "brokers": [
-    {
-      "id": 116,
-      "external_id": 380,
-      "name": "Andreas Haanes",
-      "email": "ah@eie.no",
-      "phone": "+4795235281",
-      "slug": "andreas.haanes",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/27477349cb1b6ededa13e9ec91aa37adb77f739a.jpg",
-      "office_name": "EIE Vinderen",
-      "office_department_id": 212,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-vinderen",
-      "latitude": 59.9423037,
-      "longitude": 10.7036094,
-      "geo": "59.9423037,10.7036094",
-      "radius_km": 10,
-      "city": "Oslo",
-      "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Vinderen – 1. okt kl. 01:00",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Vinderen er torsdag 1. oktober kl. 01:00 med Andreas Haanes. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=116&brokerName=Andreas%20Haanes&brokerEmail=ah%40eie.no&postalCode=0000&products=147&date=2026-10-01&time=01:00&duration=60",
-      "next_slot": {
-        "date": "2026-10-01",
-        "time": "01:00",
-        "datetime_iso": "2026-10-01T01:00:00",
-        "slot_end": "2026-10-02 01:00"
-      },
-      "has_availability": true
-    },
-    {
-      "id": 4377,
-      "external_id": 12520,
-      "name": "Caroline Teinaas",
-      "email": "cat@eie.no",
-      "phone": "+4794058345",
-      "slug": "caroline.teinaas",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/broker_12520_1768135053943.jpg",
-      "office_name": "EIE Vinderen",
-      "office_department_id": 212,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-vinderen",
-      "latitude": 59.9423037,
-      "longitude": 10.7036094,
-      "geo": "59.9423037,10.7036094",
-      "radius_km": 10,
-      "city": "Oslo",
-      "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Vinderen – 1. okt kl. 01:00",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Vinderen er torsdag 1. oktober kl. 01:00 med Caroline Teinaas. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4377&brokerName=Caroline%20Teinaas&brokerEmail=cat%40eie.no&postalCode=0000&products=147&date=2026-10-01&time=01:00&duration=60",
-      "next_slot": {
-        "date": "2026-10-01",
-        "time": "01:00",
-        "datetime_iso": "2026-10-01T01:00:00",
-        "slot_end": "2026-10-02 01:00"
-      },
-      "has_availability": true
-    },
-    {
-      "id": 119,
-      "external_id": 381,
-      "name": "Cecilie Beckmann",
-      "email": "cbe@eie.no",
-      "phone": "+4790788868",
-      "slug": "cecilie.beckmann",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/c63bf2034ecc21edf72fd6e362c6e692465772c4.jpg",
-      "office_name": "EIE Vinderen",
-      "office_department_id": 212,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-vinderen",
-      "latitude": 59.9423037,
-      "longitude": 10.7036094,
-      "geo": "59.9423037,10.7036094",
-      "radius_km": 10,
-      "city": "Oslo",
-      "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Vinderen – 1. okt kl. 01:00",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Vinderen er torsdag 1. oktober kl. 01:00 med Cecilie Beckmann. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=119&brokerName=Cecilie%20Beckmann&brokerEmail=cbe%40eie.no&postalCode=0000&products=147&date=2026-10-01&time=01:00&duration=60",
-      "next_slot": {
-        "date": "2026-10-01",
-        "time": "01:00",
-        "datetime_iso": "2026-10-01T01:00:00",
-        "slot_end": "2026-10-02 01:00"
-      },
-      "has_availability": true
-    },
-    {
-      "id": 4374,
-      "external_id": 386,
-      "name": "Charlotte Solli",
-      "email": "cso@eie.no",
-      "phone": "+4795994303",
-      "slug": "charlotte.solli",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/broker_386_1768134858472.jpg",
-      "office_name": "EIE Vinderen",
-      "office_department_id": 212,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-vinderen",
-      "latitude": 59.9423037,
-      "longitude": 10.7036094,
-      "geo": "59.9423037,10.7036094",
-      "radius_km": 10,
-      "city": "Oslo",
-      "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Vinderen – 1. okt kl. 01:00",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Vinderen er torsdag 1. oktober kl. 01:00 med Charlotte Solli. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4374&brokerName=Charlotte%20Solli&brokerEmail=cso%40eie.no&postalCode=0000&products=147&date=2026-10-01&time=01:00&duration=60",
-      "next_slot": {
-        "date": "2026-10-01",
-        "time": "01:00",
-        "datetime_iso": "2026-10-01T01:00:00",
-        "slot_end": "2026-10-02 01:00"
-      },
-      "has_availability": true
-    },
-    {
-      "id": 125,
-      "external_id": 382,
-      "name": "Frode Bergsløkken",
-      "email": "fb@eie.no",
-      "phone": "+4790134553",
-      "slug": "frode.bergslokken",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/0558ff3b5c8495270f057554675b60f8bb65c0b6.jpg",
-      "office_name": "EIE Vinderen",
-      "office_department_id": 212,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-vinderen",
-      "latitude": 59.9423037,
-      "longitude": 10.7036094,
-      "geo": "59.9423037,10.7036094",
-      "radius_km": 10,
-      "city": "Oslo",
-      "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Vinderen – 1. okt kl. 01:00",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Vinderen er torsdag 1. oktober kl. 01:00 med Frode Bergsløkken. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=125&brokerName=Frode%20Bergsl%C3%B8kken&brokerEmail=fb%40eie.no&postalCode=0000&products=147&date=2026-10-01&time=01:00&duration=60",
-      "next_slot": {
-        "date": "2026-10-01",
-        "time": "01:00",
-        "datetime_iso": "2026-10-01T01:00:00",
-        "slot_end": "2026-10-02 01:00"
-      },
-      "has_availability": true
-    },
-    {
-      "id": 4793,
-      "external_id": 498883,
-      "name": "Martin Brusletto",
-      "email": "martin.brusletto@eie.no",
-      "phone": "+4748258401",
-      "slug": "martin.brusletto",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/broker_498883_1774582221820.jpg",
-      "office_name": "EIE Vinderen",
-      "office_department_id": 212,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-vinderen",
-      "latitude": 59.9423037,
-      "longitude": 10.7036094,
-      "geo": "59.9423037,10.7036094",
-      "radius_km": 10,
-      "city": "Oslo",
-      "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Vinderen – 1. okt kl. 01:00",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Vinderen er torsdag 1. oktober kl. 01:00 med Martin Brusletto. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4793&brokerName=Martin%20Brusletto&brokerEmail=martin.brusletto%40eie.no&postalCode=0000&products=147&date=2026-10-01&time=01:00&duration=60",
-      "next_slot": {
-        "date": "2026-10-01",
-        "time": "01:00",
-        "datetime_iso": "2026-10-01T01:00:00",
-        "slot_end": "2026-10-02 01:00"
-      },
-      "has_availability": true
-    },
-    {
-      "id": 4375,
-      "external_id": 533,
-      "name": "Scott Martinsen",
-      "email": "sc@eie.no",
-      "phone": "+4797064800",
-      "slug": "scott.martinsen",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/broker_533_1768134938095.jpg",
-      "office_name": "EIE Vinderen",
-      "office_department_id": 212,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-vinderen",
-      "latitude": 59.9423037,
-      "longitude": 10.7036094,
-      "geo": "59.9423037,10.7036094",
-      "radius_km": 10,
-      "city": "Oslo",
-      "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Vinderen – 1. okt kl. 01:00",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Vinderen er torsdag 1. oktober kl. 01:00 med Scott Martinsen. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4375&brokerName=Scott%20Martinsen&brokerEmail=sc%40eie.no&postalCode=0000&products=147&date=2026-10-01&time=01:00&duration=60",
-      "next_slot": {
-        "date": "2026-10-01",
-        "time": "01:00",
-        "datetime_iso": "2026-10-01T01:00:00",
-        "slot_end": "2026-10-02 01:00"
-      },
-      "has_availability": true
-    },
-    {
-      "id": 320,
-      "external_id": 367,
-      "name": "Kjetil Borgersrud",
-      "email": "kbo@eie.no",
-      "phone": "+4791796530",
-      "slug": "kjetil.borgersrud",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/91b5154cefe3fdb48309b0a3869915d0c6b8452e.jpg",
-      "office_name": "EIE Sandvika",
-      "office_department_id": 226,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-sandvika",
-      "latitude": 59.8909629,
-      "longitude": 10.5245404,
-      "geo": "59.8909629,10.5245404",
-      "radius_km": 10,
-      "city": "Sandvika",
-      "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Sandvika – 1. okt kl. 04:00",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Sandvika er torsdag 1. oktober kl. 04:00 med Kjetil Borgersrud. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=320&brokerName=Kjetil%20Borgersrud&brokerEmail=kbo%40eie.no&postalCode=0000&products=147&date=2026-10-01&time=04:00&duration=60",
-      "next_slot": {
-        "date": "2026-10-01",
-        "time": "04:00",
-        "datetime_iso": "2026-10-01T04:00:00",
-        "slot_end": "2026-10-01 05:00"
-      },
-      "has_availability": true
-    },
     {
       "id": 720,
       "external_id": 21787,
@@ -561,6 +337,34 @@
         "time": "07:00",
         "datetime_iso": "2026-10-01T07:00:00",
         "slot_end": "2026-10-01 07:30"
+      },
+      "has_availability": true
+    },
+    {
+      "id": 4793,
+      "external_id": 498883,
+      "name": "Martin Brusletto",
+      "email": "martin.brusletto@eie.no",
+      "phone": "+4748258401",
+      "slug": "martin.brusletto",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/broker_498883_1774582221820.jpg",
+      "office_name": "EIE Vinderen",
+      "office_department_id": 212,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-vinderen",
+      "latitude": 59.9423037,
+      "longitude": 10.7036094,
+      "geo": "59.9423037,10.7036094",
+      "radius_km": 10,
+      "city": "Oslo",
+      "region": "Østlandet",
+      "title": "Neste ledige tid – EIE Vinderen – 1. okt kl. 07:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Vinderen er torsdag 1. oktober kl. 07:00 med Martin Brusletto. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4793&brokerName=Martin%20Brusletto&brokerEmail=martin.brusletto%40eie.no&postalCode=0000&products=147&date=2026-10-01&time=07:00&duration=60",
+      "next_slot": {
+        "date": "2026-10-01",
+        "time": "07:00",
+        "datetime_iso": "2026-10-01T07:00:00",
+        "slot_end": "2026-10-01 07:15"
       },
       "has_availability": true
     },
@@ -3080,7 +2884,7 @@
         "date": "2026-10-01",
         "time": "09:00",
         "datetime_iso": "2026-10-01T09:00:00",
-        "slot_end": "2026-10-01 09:30"
+        "slot_end": "2026-10-01 11:00"
       },
       "has_availability": true
     },
@@ -3221,6 +3025,34 @@
         "time": "09:00",
         "datetime_iso": "2026-10-01T09:00:00",
         "slot_end": "2026-10-01 11:00"
+      },
+      "has_availability": true
+    },
+    {
+      "id": 116,
+      "external_id": 380,
+      "name": "Andreas Haanes",
+      "email": "ah@eie.no",
+      "phone": "+4795235281",
+      "slug": "andreas.haanes",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/27477349cb1b6ededa13e9ec91aa37adb77f739a.jpg",
+      "office_name": "EIE Vinderen",
+      "office_department_id": 212,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-vinderen",
+      "latitude": 59.9423037,
+      "longitude": 10.7036094,
+      "geo": "59.9423037,10.7036094",
+      "radius_km": 10,
+      "city": "Oslo",
+      "region": "Østlandet",
+      "title": "Neste ledige tid – EIE Vinderen – 1. okt kl. 09:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Vinderen er torsdag 1. oktober kl. 09:00 med Andreas Haanes. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=116&brokerName=Andreas%20Haanes&brokerEmail=ah%40eie.no&postalCode=0000&products=147&date=2026-10-01&time=09:00&duration=60",
+      "next_slot": {
+        "date": "2026-10-01",
+        "time": "09:00",
+        "datetime_iso": "2026-10-01T09:00:00",
+        "slot_end": "2026-10-01 13:00"
       },
       "has_availability": true
     },
@@ -3752,7 +3584,7 @@
         "date": "2026-10-01",
         "time": "09:00",
         "datetime_iso": "2026-10-01T09:00:00",
-        "slot_end": "2026-10-01 09:30"
+        "slot_end": "2026-10-01 11:00"
       },
       "has_availability": true
     },
@@ -3841,6 +3673,34 @@
       "has_availability": true
     },
     {
+      "id": 4377,
+      "external_id": 12520,
+      "name": "Caroline Teinaas",
+      "email": "cat@eie.no",
+      "phone": "+4794058345",
+      "slug": "caroline.teinaas",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/broker_12520_1768135053943.jpg",
+      "office_name": "EIE Vinderen",
+      "office_department_id": 212,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-vinderen",
+      "latitude": 59.9423037,
+      "longitude": 10.7036094,
+      "geo": "59.9423037,10.7036094",
+      "radius_km": 10,
+      "city": "Oslo",
+      "region": "Østlandet",
+      "title": "Neste ledige tid – EIE Vinderen – 1. okt kl. 09:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Vinderen er torsdag 1. oktober kl. 09:00 med Caroline Teinaas. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4377&brokerName=Caroline%20Teinaas&brokerEmail=cat%40eie.no&postalCode=0000&products=147&date=2026-10-01&time=09:00&duration=60",
+      "next_slot": {
+        "date": "2026-10-01",
+        "time": "09:00",
+        "datetime_iso": "2026-10-01T09:00:00",
+        "slot_end": "2026-10-01 11:00"
+      },
+      "has_availability": true
+    },
+    {
       "id": 4516,
       "external_id": 11241,
       "name": "Cathrine Sesseng",
@@ -3888,6 +3748,34 @@
       "title": "Neste ledige tid – EIE Løren & Økern – 1. okt kl. 09:00",
       "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Løren & Økern er torsdag 1. oktober kl. 09:00 med Cecilia Johansen. Velkommen til en hyggelig prat.",
       "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=679&brokerName=Cecilia%20Johansen&brokerEmail=cjo%40eie.no&postalCode=0000&products=147&date=2026-10-01&time=09:00&duration=60",
+      "next_slot": {
+        "date": "2026-10-01",
+        "time": "09:00",
+        "datetime_iso": "2026-10-01T09:00:00",
+        "slot_end": "2026-10-01 11:00"
+      },
+      "has_availability": true
+    },
+    {
+      "id": 119,
+      "external_id": 381,
+      "name": "Cecilie Beckmann",
+      "email": "cbe@eie.no",
+      "phone": "+4790788868",
+      "slug": "cecilie.beckmann",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/c63bf2034ecc21edf72fd6e362c6e692465772c4.jpg",
+      "office_name": "EIE Vinderen",
+      "office_department_id": 212,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-vinderen",
+      "latitude": 59.9423037,
+      "longitude": 10.7036094,
+      "geo": "59.9423037,10.7036094",
+      "radius_km": 10,
+      "city": "Oslo",
+      "region": "Østlandet",
+      "title": "Neste ledige tid – EIE Vinderen – 1. okt kl. 09:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Vinderen er torsdag 1. oktober kl. 09:00 med Cecilie Beckmann. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=119&brokerName=Cecilie%20Beckmann&brokerEmail=cbe%40eie.no&postalCode=0000&products=147&date=2026-10-01&time=09:00&duration=60",
       "next_slot": {
         "date": "2026-10-01",
         "time": "09:00",
@@ -3949,6 +3837,34 @@
         "time": "09:00",
         "datetime_iso": "2026-10-01T09:00:00",
         "slot_end": "2026-10-01 10:30"
+      },
+      "has_availability": true
+    },
+    {
+      "id": 4374,
+      "external_id": 386,
+      "name": "Charlotte Solli",
+      "email": "cso@eie.no",
+      "phone": "+4795994303",
+      "slug": "charlotte.solli",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/broker_386_1768134858472.jpg",
+      "office_name": "EIE Vinderen",
+      "office_department_id": 212,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-vinderen",
+      "latitude": 59.9423037,
+      "longitude": 10.7036094,
+      "geo": "59.9423037,10.7036094",
+      "radius_km": 10,
+      "city": "Oslo",
+      "region": "Østlandet",
+      "title": "Neste ledige tid – EIE Vinderen – 1. okt kl. 09:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Vinderen er torsdag 1. oktober kl. 09:00 med Charlotte Solli. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4374&brokerName=Charlotte%20Solli&brokerEmail=cso%40eie.no&postalCode=0000&products=147&date=2026-10-01&time=09:00&duration=60",
+      "next_slot": {
+        "date": "2026-10-01",
+        "time": "09:00",
+        "datetime_iso": "2026-10-01T09:00:00",
+        "slot_end": "2026-10-01 11:00"
       },
       "has_availability": true
     },
@@ -4620,7 +4536,7 @@
         "date": "2026-10-01",
         "time": "09:00",
         "datetime_iso": "2026-10-01T09:00:00",
-        "slot_end": "2026-10-01 10:00"
+        "slot_end": "2026-10-01 11:00"
       },
       "has_availability": true
     },
@@ -4900,7 +4816,35 @@
         "date": "2026-10-01",
         "time": "09:00",
         "datetime_iso": "2026-10-01T09:00:00",
-        "slot_end": "2026-10-01 11:00"
+        "slot_end": "2026-10-01 10:00"
+      },
+      "has_availability": true
+    },
+    {
+      "id": 125,
+      "external_id": 382,
+      "name": "Frode Bergsløkken",
+      "email": "fb@eie.no",
+      "phone": "+4790134553",
+      "slug": "frode.bergslokken",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/0558ff3b5c8495270f057554675b60f8bb65c0b6.jpg",
+      "office_name": "EIE Vinderen",
+      "office_department_id": 212,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-vinderen",
+      "latitude": 59.9423037,
+      "longitude": 10.7036094,
+      "geo": "59.9423037,10.7036094",
+      "radius_km": 10,
+      "city": "Oslo",
+      "region": "Østlandet",
+      "title": "Neste ledige tid – EIE Vinderen – 1. okt kl. 09:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Vinderen er torsdag 1. oktober kl. 09:00 med Frode Bergsløkken. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=125&brokerName=Frode%20Bergsl%C3%B8kken&brokerEmail=fb%40eie.no&postalCode=0000&products=147&date=2026-10-01&time=09:00&duration=60",
+      "next_slot": {
+        "date": "2026-10-01",
+        "time": "09:00",
+        "datetime_iso": "2026-10-01T09:00:00",
+        "slot_end": "2026-10-01 10:00"
       },
       "has_availability": true
     },
@@ -5572,7 +5516,7 @@
         "date": "2026-10-01",
         "time": "09:00",
         "datetime_iso": "2026-10-01T09:00:00",
-        "slot_end": "2026-10-01 09:30"
+        "slot_end": "2026-10-01 11:00"
       },
       "has_availability": true
     },
@@ -5792,34 +5736,6 @@
       "title": "Neste ledige tid – EIE Fjellmegleren Valdres – 1. okt kl. 09:00",
       "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Fjellmegleren Valdres er torsdag 1. oktober kl. 09:00 med Ingrid Kristina Rognaas. Velkommen til en hyggelig prat.",
       "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4685&brokerName=Ingrid%20Kristina%20Rognaas&brokerEmail=ikr%40eie.no&postalCode=0000&products=147&date=2026-10-01&time=09:00&duration=60",
-      "next_slot": {
-        "date": "2026-10-01",
-        "time": "09:00",
-        "datetime_iso": "2026-10-01T09:00:00",
-        "slot_end": "2026-10-01 11:00"
-      },
-      "has_availability": true
-    },
-    {
-      "id": 4677,
-      "external_id": 461134,
-      "name": "Ingrid Skare-Soldal",
-      "email": "iss@eie.no",
-      "phone": "+4794814071",
-      "slug": "ingrid.skaresoldal",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/broker_461134_1768135145330.jpg",
-      "office_name": "EIE Fjellmegleren Geilo",
-      "office_department_id": 461112,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-fjellmegleren-geilo",
-      "latitude": 60.5348158,
-      "longitude": 8.208569,
-      "geo": "60.5348158,8.208569",
-      "radius_km": 20.5,
-      "city": "Geilo",
-      "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Fjellmegleren Geilo – 1. okt kl. 09:00",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Fjellmegleren Geilo er torsdag 1. oktober kl. 09:00 med Ingrid Skare-Soldal. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4677&brokerName=Ingrid%20Skare-Soldal&brokerEmail=iss%40eie.no&postalCode=0000&products=147&date=2026-10-01&time=09:00&duration=60",
       "next_slot": {
         "date": "2026-10-01",
         "time": "09:00",
@@ -6216,7 +6132,7 @@
         "date": "2026-10-01",
         "time": "09:00",
         "datetime_iso": "2026-10-01T09:00:00",
-        "slot_end": "2026-10-01 12:00"
+        "slot_end": "2026-10-01 11:00"
       },
       "has_availability": true
     },
@@ -6244,7 +6160,7 @@
         "date": "2026-10-01",
         "time": "09:00",
         "datetime_iso": "2026-10-01T09:00:00",
-        "slot_end": "2026-10-01 11:00"
+        "slot_end": "2026-10-01 12:00"
       },
       "has_availability": true
     },
@@ -6492,6 +6408,34 @@
       "title": "Neste ledige tid – EIE Follo – 1. okt kl. 09:00",
       "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Follo er torsdag 1. oktober kl. 09:00 med Kjersti Sollied. Velkommen til en hyggelig prat.",
       "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=724&brokerName=Kjersti%20Sollied&brokerEmail=kso%40eie.no&postalCode=0000&products=147&date=2026-10-01&time=09:00&duration=60",
+      "next_slot": {
+        "date": "2026-10-01",
+        "time": "09:00",
+        "datetime_iso": "2026-10-01T09:00:00",
+        "slot_end": "2026-10-01 11:00"
+      },
+      "has_availability": true
+    },
+    {
+      "id": 320,
+      "external_id": 367,
+      "name": "Kjetil Borgersrud",
+      "email": "kbo@eie.no",
+      "phone": "+4791796530",
+      "slug": "kjetil.borgersrud",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/91b5154cefe3fdb48309b0a3869915d0c6b8452e.jpg",
+      "office_name": "EIE Sandvika",
+      "office_department_id": 226,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-sandvika",
+      "latitude": 59.8909629,
+      "longitude": 10.5245404,
+      "geo": "59.8909629,10.5245404",
+      "radius_km": 10,
+      "city": "Sandvika",
+      "region": "Østlandet",
+      "title": "Neste ledige tid – EIE Sandvika – 1. okt kl. 09:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Sandvika er torsdag 1. oktober kl. 09:00 med Kjetil Borgersrud. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=320&brokerName=Kjetil%20Borgersrud&brokerEmail=kbo%40eie.no&postalCode=0000&products=147&date=2026-10-01&time=09:00&duration=60",
       "next_slot": {
         "date": "2026-10-01",
         "time": "09:00",
@@ -8321,6 +8265,34 @@
       "has_availability": true
     },
     {
+      "id": 4375,
+      "external_id": 533,
+      "name": "Scott Martinsen",
+      "email": "sc@eie.no",
+      "phone": "+4797064800",
+      "slug": "scott.martinsen",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/broker_533_1768134938095.jpg",
+      "office_name": "EIE Vinderen",
+      "office_department_id": 212,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-vinderen",
+      "latitude": 59.9423037,
+      "longitude": 10.7036094,
+      "geo": "59.9423037,10.7036094",
+      "radius_km": 10,
+      "city": "Oslo",
+      "region": "Østlandet",
+      "title": "Neste ledige tid – EIE Vinderen – 1. okt kl. 09:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Vinderen er torsdag 1. oktober kl. 09:00 med Scott Martinsen. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=4375&brokerName=Scott%20Martinsen&brokerEmail=sc%40eie.no&postalCode=0000&products=147&date=2026-10-01&time=09:00&duration=60",
+      "next_slot": {
+        "date": "2026-10-01",
+        "time": "09:00",
+        "datetime_iso": "2026-10-01T09:00:00",
+        "slot_end": "2026-10-01 11:00"
+      },
+      "has_availability": true
+    },
+    {
       "id": 590,
       "external_id": 514,
       "name": "Sebastian Andresen",
@@ -8708,7 +8680,7 @@
         "date": "2026-10-01",
         "time": "09:00",
         "datetime_iso": "2026-10-01T09:00:00",
-        "slot_end": "2026-10-01 10:00"
+        "slot_end": "2026-10-01 11:00"
       },
       "has_availability": true
     },
