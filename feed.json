@@ -1,37 +1,9 @@
 {
-  "generated_at": "2026-10-14T00:19:45.778816",
+  "generated_at": "2026-10-14T05:57:36.417575",
   "lookahead_days": 14,
-  "total_brokers": 340,
+  "total_brokers": 339,
   "brokers_with_availability": 337,
   "brokers": [
-    {
-      "id": 625,
-      "external_id": 2594,
-      "name": "Fredrik von Krogh",
-      "email": "fvk@eie.no",
-      "phone": "+4795428701",
-      "slug": "fredrik.von.krogh",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/f1d54b09ca75426ac96c554633126a0af3b7e1d9.jpg",
-      "office_name": "EIE Asker",
-      "office_department_id": 290,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-asker",
-      "latitude": 59.8362622,
-      "longitude": 10.4323414,
-      "geo": "59.8362622,10.4323414",
-      "radius_km": 10,
-      "city": "Asker",
-      "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Asker – 14. okt kl. 00:25",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Asker er onsdag 14. oktober kl. 00:25 med Fredrik von Krogh. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=625&brokerName=Fredrik%20von%20Krogh&brokerEmail=fvk%40eie.no&postalCode=0000&products=147&date=2026-10-14&time=00:25&duration=60",
-      "next_slot": {
-        "date": "2026-10-14",
-        "time": "00:25",
-        "datetime_iso": "2026-10-14T00:25:00",
-        "slot_end": "2026-10-14 00:29"
-      },
-      "has_availability": true
-    },
     {
       "id": 633,
       "external_id": 2884,
@@ -49,14 +21,14 @@
       "radius_km": 10,
       "city": "Oslo",
       "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Valkyrien – 14. okt kl. 05:30",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Valkyrien er onsdag 14. oktober kl. 05:30 med Ada Kjenner. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=633&brokerName=Ada%20Kjenner&brokerEmail=akj%40eie.no&postalCode=0000&products=147&date=2026-10-14&time=05:30&duration=60",
+      "title": "Neste ledige tid – EIE Valkyrien – 14. okt kl. 06:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Valkyrien er onsdag 14. oktober kl. 06:00 med Ada Kjenner. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=633&brokerName=Ada%20Kjenner&brokerEmail=akj%40eie.no&postalCode=0000&products=147&date=2026-10-14&time=06:00&duration=60",
       "next_slot": {
         "date": "2026-10-14",
-        "time": "05:30",
-        "datetime_iso": "2026-10-14T05:30:00",
-        "slot_end": "2026-10-14 06:00"
+        "time": "06:00",
+        "datetime_iso": "2026-10-14T06:00:00",
+        "slot_end": "2026-10-14 06:30"
       },
       "has_availability": true
     },
@@ -565,34 +537,6 @@
       "has_availability": true
     },
     {
-      "id": 581,
-      "external_id": 729,
-      "name": "Runar Bjørkelund",
-      "email": "rub@eie.no",
-      "phone": "+4792806276",
-      "slug": "runar.bjorkelund",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/e2c5adf50f84664a1ea5f77a89d901f62a8635ff.jpg",
-      "office_name": "EIE Harstad",
-      "office_department_id": 726,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-harstad",
-      "latitude": 68.7996515,
-      "longitude": 16.5426082,
-      "geo": "68.7996515,16.5426082",
-      "radius_km": 23.4,
-      "city": "Harstad",
-      "region": "Nord-Norge",
-      "title": "Neste ledige tid – EIE Harstad – 14. okt kl. 07:45",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Harstad er onsdag 14. oktober kl. 07:45 med Runar Bjørkelund. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=581&brokerName=Runar%20Bj%C3%B8rkelund&brokerEmail=rub%40eie.no&postalCode=0000&products=147&date=2026-10-14&time=07:45&duration=60",
-      "next_slot": {
-        "date": "2026-10-14",
-        "time": "07:45",
-        "datetime_iso": "2026-10-14T07:45:00",
-        "slot_end": "2026-10-14 08:15"
-      },
-      "has_availability": true
-    },
-    {
       "id": 4540,
       "external_id": 47993,
       "name": "Aleksander Stoveland",
@@ -812,7 +756,7 @@
         "date": "2026-10-14",
         "time": "08:00",
         "datetime_iso": "2026-10-14T08:00:00",
-        "slot_end": "2026-10-14 08:30"
+        "slot_end": "2026-10-14 17:30"
       },
       "has_availability": true
     },
@@ -1176,7 +1120,7 @@
         "date": "2026-10-14",
         "time": "08:00",
         "datetime_iso": "2026-10-14T08:00:00",
-        "slot_end": "2026-10-14 10:00"
+        "slot_end": "2026-10-14 09:00"
       },
       "has_availability": true
     },
@@ -1877,6 +1821,34 @@
         "time": "08:15",
         "datetime_iso": "2026-10-14T08:15:00",
         "slot_end": "2026-10-14 08:45"
+      },
+      "has_availability": true
+    },
+    {
+      "id": 581,
+      "external_id": 729,
+      "name": "Runar Bjørkelund",
+      "email": "rub@eie.no",
+      "phone": "+4792806276",
+      "slug": "runar.bjorkelund",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/e2c5adf50f84664a1ea5f77a89d901f62a8635ff.jpg",
+      "office_name": "EIE Harstad",
+      "office_department_id": 726,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-harstad",
+      "latitude": 68.7996515,
+      "longitude": 16.5426082,
+      "geo": "68.7996515,16.5426082",
+      "radius_km": 23.4,
+      "city": "Harstad",
+      "region": "Nord-Norge",
+      "title": "Neste ledige tid – EIE Harstad – 14. okt kl. 08:15",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Harstad er onsdag 14. oktober kl. 08:15 med Runar Bjørkelund. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=581&brokerName=Runar%20Bj%C3%B8rkelund&brokerEmail=rub%40eie.no&postalCode=0000&products=147&date=2026-10-14&time=08:15&duration=60",
+      "next_slot": {
+        "date": "2026-10-14",
+        "time": "08:15",
+        "datetime_iso": "2026-10-14T08:15:00",
+        "slot_end": "2026-10-14 08:30"
       },
       "has_availability": true
     },
@@ -3360,7 +3332,7 @@
         "date": "2026-10-14",
         "time": "09:00",
         "datetime_iso": "2026-10-14T09:00:00",
-        "slot_end": "2026-10-14 10:00"
+        "slot_end": "2026-10-14 09:30"
       },
       "has_availability": true
     },
@@ -5993,6 +5965,34 @@
         "time": "10:00",
         "datetime_iso": "2026-10-14T10:00:00",
         "slot_end": "2026-10-14 11:00"
+      },
+      "has_availability": true
+    },
+    {
+      "id": 625,
+      "external_id": 2594,
+      "name": "Fredrik von Krogh",
+      "email": "fvk@eie.no",
+      "phone": "+4795428701",
+      "slug": "fredrik.von.krogh",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/f1d54b09ca75426ac96c554633126a0af3b7e1d9.jpg",
+      "office_name": "EIE Asker",
+      "office_department_id": 290,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-asker",
+      "latitude": 59.8362622,
+      "longitude": 10.4323414,
+      "geo": "59.8362622,10.4323414",
+      "radius_km": 10,
+      "city": "Asker",
+      "region": "Østlandet",
+      "title": "Neste ledige tid – EIE Asker – 14. okt kl. 10:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Asker er onsdag 14. oktober kl. 10:00 med Fredrik von Krogh. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=625&brokerName=Fredrik%20von%20Krogh&brokerEmail=fvk%40eie.no&postalCode=0000&products=147&date=2026-10-14&time=10:00&duration=60",
+      "next_slot": {
+        "date": "2026-10-14",
+        "time": "10:00",
+        "datetime_iso": "2026-10-14T10:00:00",
+        "slot_end": "2026-10-14 10:45"
       },
       "has_availability": true
     },
@@ -9483,29 +9483,6 @@
       "title": "Book megler – EIE advokat live",
       "description": "Book tid med din lokale megler hos EIE advokat live. Se ledige tider og finn en tid som passer deg.",
       "direct_booking_url": "https://booking.eie.no/department/None",
-      "next_slot": null,
-      "has_availability": false
-    },
-    {
-      "id": 4579,
-      "external_id": 21147,
-      "name": "Tord Bredal",
-      "email": "tkb@eie.no",
-      "phone": "+4746915146",
-      "slug": "tord.bredal",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/broker_21147_1768135081184.jpg",
-      "office_name": "EIE Lillestrøm",
-      "office_department_id": 544726,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-lillestrom",
-      "latitude": 59.9578748,
-      "longitude": 11.0488831,
-      "geo": "59.9578748,11.0488831",
-      "radius_km": 10,
-      "city": "Lillestrøm",
-      "region": "Østlandet",
-      "title": "Book megler – EIE Lillestrøm",
-      "description": "Book tid med din lokale megler hos EIE Lillestrøm. Se ledige tider og finn en tid som passer deg.",
-      "direct_booking_url": "https://booking.eie.no/department/544726",
       "next_slot": null,
       "has_availability": false
     }
