@@ -1,65 +1,9 @@
 {
-  "generated_at": "2026-11-05T22:39:09.905990",
+  "generated_at": "2026-11-06T03:16:58.147570",
   "lookahead_days": 14,
   "total_brokers": 333,
   "brokers_with_availability": 330,
   "brokers": [
-    {
-      "id": 588,
-      "external_id": 517,
-      "name": "Anders Andersen",
-      "email": "aa@eie.no",
-      "phone": "+4798837452",
-      "slug": "anders.andersen",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/dcac6df70febdb95d922556dad0851334771aec5.jpg",
-      "office_name": "EIE Majorstuen & St. Hanshaugen",
-      "office_department_id": 1868,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-majorstuen-st-hanshaugen",
-      "latitude": 59.920996,
-      "longitude": 10.72762,
-      "geo": "59.920996,10.72762",
-      "radius_km": 10,
-      "city": "Oslo",
-      "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Majorstuen & St. Hanshaugen – 5. nov kl. 22:50",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Majorstuen & St. Hanshaugen er torsdag 5. november kl. 22:50 med Anders Andersen. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=588&brokerName=Anders%20Andersen&brokerEmail=aa%40eie.no&postalCode=0000&products=147&date=2026-11-05&time=22:50&duration=60",
-      "next_slot": {
-        "date": "2026-11-05",
-        "time": "22:50",
-        "datetime_iso": "2026-11-05T22:50:00",
-        "slot_end": "2026-11-05 23:50"
-      },
-      "has_availability": true
-    },
-    {
-      "id": 646,
-      "external_id": 4086,
-      "name": "Ane Line Plassen Nordbak",
-      "email": "aln@eie.no",
-      "phone": "+4799231630",
-      "slug": "ane.line.plassen.nordbak",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/6cb846b3147d6f7c583d0fdab3572e1500a527a7.jpg",
-      "office_name": "EIE Ullevål & Sagene",
-      "office_department_id": 4084,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-ulleval-sagene",
-      "latitude": 59.949923,
-      "longitude": 10.736036,
-      "geo": "59.949923,10.736036",
-      "radius_km": 10,
-      "city": "Oslo",
-      "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Ullevål & Sagene – 6. nov kl. 01:00",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Ullevål & Sagene er fredag 6. november kl. 01:00 med Ane Line Plassen Nordbak. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=646&brokerName=Ane%20Line%20Plassen%20Nordbak&brokerEmail=aln%40eie.no&postalCode=0000&products=147&date=2026-11-06&time=01:00&duration=60",
-      "next_slot": {
-        "date": "2026-11-06",
-        "time": "01:00",
-        "datetime_iso": "2026-11-06T01:00:00",
-        "slot_end": "2026-11-09 01:00"
-      },
-      "has_availability": true
-    },
     {
       "id": 320,
       "external_id": 367,
@@ -77,42 +21,14 @@
       "radius_km": 10,
       "city": "Sandvika",
       "region": "Østlandet",
-      "title": "Neste ledige tid – EIE Sandvika – 6. nov kl. 01:00",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Sandvika er fredag 6. november kl. 01:00 med Kjetil Borgersrud. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=320&brokerName=Kjetil%20Borgersrud&brokerEmail=kbo%40eie.no&postalCode=0000&products=147&date=2026-11-06&time=01:00&duration=60",
+      "title": "Neste ledige tid – EIE Sandvika – 6. nov kl. 04:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Sandvika er fredag 6. november kl. 04:00 med Kjetil Borgersrud. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=320&brokerName=Kjetil%20Borgersrud&brokerEmail=kbo%40eie.no&postalCode=0000&products=147&date=2026-11-06&time=04:00&duration=60",
       "next_slot": {
         "date": "2026-11-06",
-        "time": "01:00",
-        "datetime_iso": "2026-11-06T01:00:00",
-        "slot_end": "2026-11-06 02:00"
-      },
-      "has_availability": true
-    },
-    {
-      "id": 580,
-      "external_id": 728,
-      "name": "Vetle Larsen",
-      "email": "vl@eie.no",
-      "phone": "+4793208856",
-      "slug": "vetle.larsen",
-      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/6c694e9becb5ad4e0d5f33519f8bae4557661bd4.jpg",
-      "office_name": "EIE Harstad",
-      "office_department_id": 726,
-      "office_url": "https://eie.no/eiendom/kontorer/eie-harstad",
-      "latitude": 68.7996515,
-      "longitude": 16.5426082,
-      "geo": "68.7996515,16.5426082",
-      "radius_km": 23.4,
-      "city": "Harstad",
-      "region": "Nord-Norge",
-      "title": "Neste ledige tid – EIE Harstad – 6. nov kl. 01:00",
-      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Harstad er fredag 6. november kl. 01:00 med Vetle Larsen. Velkommen til en hyggelig prat.",
-      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=580&brokerName=Vetle%20Larsen&brokerEmail=vl%40eie.no&postalCode=0000&products=147&date=2026-11-06&time=01:00&duration=60",
-      "next_slot": {
-        "date": "2026-11-06",
-        "time": "01:00",
-        "datetime_iso": "2026-11-06T01:00:00",
-        "slot_end": "2026-11-07 01:00"
+        "time": "04:00",
+        "datetime_iso": "2026-11-06T04:00:00",
+        "slot_end": "2026-11-06 05:00"
       },
       "has_availability": true
     },
@@ -2301,6 +2217,34 @@
       "has_availability": true
     },
     {
+      "id": 646,
+      "external_id": 4086,
+      "name": "Ane Line Plassen Nordbak",
+      "email": "aln@eie.no",
+      "phone": "+4799231630",
+      "slug": "ane.line.plassen.nordbak",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/6cb846b3147d6f7c583d0fdab3572e1500a527a7.jpg",
+      "office_name": "EIE Ullevål & Sagene",
+      "office_department_id": 4084,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-ulleval-sagene",
+      "latitude": 59.949923,
+      "longitude": 10.736036,
+      "geo": "59.949923,10.736036",
+      "radius_km": 10,
+      "city": "Oslo",
+      "region": "Østlandet",
+      "title": "Neste ledige tid – EIE Ullevål & Sagene – 6. nov kl. 09:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Ullevål & Sagene er fredag 6. november kl. 09:00 med Ane Line Plassen Nordbak. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=646&brokerName=Ane%20Line%20Plassen%20Nordbak&brokerEmail=aln%40eie.no&postalCode=0000&products=147&date=2026-11-06&time=09:00&duration=60",
+      "next_slot": {
+        "date": "2026-11-06",
+        "time": "09:00",
+        "datetime_iso": "2026-11-06T09:00:00",
+        "slot_end": "2026-11-06 18:00"
+      },
+      "has_availability": true
+    },
+    {
       "id": 128,
       "external_id": 581,
       "name": "Brynjar Netskar",
@@ -2324,7 +2268,7 @@
         "date": "2026-11-06",
         "time": "09:00",
         "datetime_iso": "2026-11-06T09:00:00",
-        "slot_end": "2026-11-06 10:00"
+        "slot_end": "2026-11-06 18:00"
       },
       "has_availability": true
     },
@@ -3729,6 +3673,34 @@
       "has_availability": true
     },
     {
+      "id": 580,
+      "external_id": 728,
+      "name": "Vetle Larsen",
+      "email": "vl@eie.no",
+      "phone": "+4793208856",
+      "slug": "vetle.larsen",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/6c694e9becb5ad4e0d5f33519f8bae4557661bd4.jpg",
+      "office_name": "EIE Harstad",
+      "office_department_id": 726,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-harstad",
+      "latitude": 68.7996515,
+      "longitude": 16.5426082,
+      "geo": "68.7996515,16.5426082",
+      "radius_km": 23.4,
+      "city": "Harstad",
+      "region": "Nord-Norge",
+      "title": "Neste ledige tid – EIE Harstad – 6. nov kl. 09:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Harstad er fredag 6. november kl. 09:00 med Vetle Larsen. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=580&brokerName=Vetle%20Larsen&brokerEmail=vl%40eie.no&postalCode=0000&products=147&date=2026-11-06&time=09:00&duration=60",
+      "next_slot": {
+        "date": "2026-11-06",
+        "time": "09:00",
+        "datetime_iso": "2026-11-06T09:00:00",
+        "slot_end": "2026-11-06 10:00"
+      },
+      "has_availability": true
+    },
+    {
       "id": 4836,
       "external_id": 538539,
       "name": "Vidar Opheim",
@@ -4117,6 +4089,34 @@
         "time": "10:00",
         "datetime_iso": "2026-11-06T10:00:00",
         "slot_end": "2026-11-06 11:00"
+      },
+      "has_availability": true
+    },
+    {
+      "id": 588,
+      "external_id": 517,
+      "name": "Anders Andersen",
+      "email": "aa@eie.no",
+      "phone": "+4798837452",
+      "slug": "anders.andersen",
+      "photo_url": "https://avtpaqeyepgnsirkyjco.supabase.co/storage/v1/object/public/office-product-photos/dcac6df70febdb95d922556dad0851334771aec5.jpg",
+      "office_name": "EIE Majorstuen & St. Hanshaugen",
+      "office_department_id": 1868,
+      "office_url": "https://eie.no/eiendom/kontorer/eie-majorstuen-st-hanshaugen",
+      "latitude": 59.920996,
+      "longitude": 10.72762,
+      "geo": "59.920996,10.72762",
+      "radius_km": 10,
+      "city": "Oslo",
+      "region": "Østlandet",
+      "title": "Neste ledige tid – EIE Majorstuen & St. Hanshaugen – 6. nov kl. 10:00",
+      "description": "Book tid med din lokale megler! Neste ledige tid hos EIE Majorstuen & St. Hanshaugen er fredag 6. november kl. 10:00 med Anders Andersen. Velkommen til en hyggelig prat.",
+      "direct_booking_url": "https://booking.eie.no/booking/form?brokerId=588&brokerName=Anders%20Andersen&brokerEmail=aa%40eie.no&postalCode=0000&products=147&date=2026-11-06&time=10:00&duration=60",
+      "next_slot": {
+        "date": "2026-11-06",
+        "time": "10:00",
+        "datetime_iso": "2026-11-06T10:00:00",
+        "slot_end": "2026-11-06 11:30"
       },
       "has_availability": true
     },
